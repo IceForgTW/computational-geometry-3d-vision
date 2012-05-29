@@ -1,0 +1,14 @@
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EGEngine\bin\Debug\EGEngine.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EGEngine\bin\Debug\EGEngine.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EGEngine\obj\Debug\ResolveAssemblyReference.cache
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EGEngine\obj\Debug\EGEngine.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EGEngine\obj\Debug\EGEngine.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EGEngine\bin\Debug\EGInterface.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EGEngine\bin\Debug\EGInterface.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EventGenerationEngine\bin\Debug\EGEngine.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EventGenerationEngine\bin\Debug\EGEngine.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EventGenerationEngine\bin\Debug\EGInterface.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EventGenerationEngine\bin\Debug\EGInterface.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EventGenerationEngine\obj\Debug\ResolveAssemblyReference.cache
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EventGenerationEngine\obj\Debug\EGEngine.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EventGenerationEngine\obj\Debug\EGEngine.pdb

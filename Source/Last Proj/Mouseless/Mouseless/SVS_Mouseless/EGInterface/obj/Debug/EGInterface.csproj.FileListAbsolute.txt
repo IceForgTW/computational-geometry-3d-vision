@@ -1,0 +1,5 @@
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EGInterface\bin\Debug\EGInterface.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EGInterface\bin\Debug\EGInterface.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EGInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EGInterface\obj\Debug\EGInterface.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EGInterface\obj\Debug\EGInterface.pdb

@@ -1,0 +1,9 @@
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EG_SurfaceDraw\bin\Debug\EG_SurfaceDraw.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EG_SurfaceDraw\bin\Debug\EG_SurfaceDraw.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EG_SurfaceDraw\bin\Debug\EGInterface.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EG_SurfaceDraw\bin\Debug\EGInterface.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EG_SurfaceDraw\obj\Debug\ResolveAssemblyReference.cache
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EG_SurfaceDraw\obj\Debug\EG_SurfaceDraw.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EG_SurfaceDraw\obj\Debug\EG_SurfaceDraw.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\SVS_Mouseless\bin\Debug\EGPlugins\EG_SurfaceDraw.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\SVS_Mouseless\bin\Debug\EGPlugins\EG_SurfaceDraw.pdb

@@ -1,0 +1,8 @@
+LIBRARY	"CardDetector"
+EXPORTS
+	SetCalibrationInfo @1
+	LearnObject @2
+	DetectObject @3
+	SetCalibrationInfoFromXML @4
+	DrawBox @5
+	GetProjectionMatrix @6

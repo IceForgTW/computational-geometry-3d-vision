@@ -1,0 +1,7 @@
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\FARInterface\bin\Release\FARInterface.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\FARInterface\bin\Release\FARInterface.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\FARInterface\bin\Release\DataAdapter.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\FARInterface\bin\Release\DataAdapter.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\FARInterface\obj\Release\ResolveAssemblyReference.cache
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\FARInterface\obj\Release\FARInterface.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\FARInterface\obj\Release\FARInterface.pdb

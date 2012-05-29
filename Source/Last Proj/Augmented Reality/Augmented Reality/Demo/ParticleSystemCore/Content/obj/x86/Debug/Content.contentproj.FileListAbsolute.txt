@@ -1,0 +1,7 @@
+D:\STUDY\LuanVanWorking\Workspace\xxxdefender\Version02\XXXDefender\ParticleSystemCore\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\STUDY\LuanVanWorking\Workspace\xxxdefender\Version02_bk2\Version02\XXXDefender\ParticleSystemCore\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\STUDY\LuanVanWorking\Workspace\SimpleDemo\ParticleSystemCore\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\STUDY\LuanVanWorking\Workspace\Demo\ParticleSystemCore\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\2009-2010\Lab\__________\Demo\ParticleSystemCore\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\2009-2010\Lab\Final\Demo\ParticleSystemCore\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\Content\obj\x86\Debug\ResolveAssemblyReference.cache

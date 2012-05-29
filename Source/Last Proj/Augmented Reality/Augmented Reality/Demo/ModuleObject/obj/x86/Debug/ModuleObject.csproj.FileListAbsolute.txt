@@ -1,0 +1,883 @@
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Images\Terrain\Maps\heightmap.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Images\Terrain\Maps\treeMap.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Terrain\cloudMap.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Images\Terrain\Textures\grass.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Images\Terrain\Textures\rock.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Images\Terrain\Textures\sand.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Images\Terrain\Textures\snow.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Images\Terrain\Textures\tree.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Images\Terrain\Textures\waterbump.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Images\Terrain\Maps\citymap.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Images\Terrain\Textures\pavingbrick.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Images\Terrain\Maps\notreemap.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Images\Terrain\Textures\paving.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Images\Terrain\Textures\paving1.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Images\Terrain\Textures\paving2.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Effects\bbEffect.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Effects\Series4Effects.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Terrain\dome.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Terrain\cloudMap_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\XML\Terrain3.xml
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\XML\Terrain1.xml
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\XML\Terrain2.xml
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\knight.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\lightningSword.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\knight.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\lightningSword.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\china_boatbuilding\china_boatbuilding.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japan_boatbuilding\japan_boatbuilding.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\castle_regicide\castle_regicide.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\china_castle\china_castle.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\china_consulate\china_consulate.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\china_market\china_market.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\china_monastery\china_monastery.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\china_towncenter\china_towncenter.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\china_waracademy\china_waracademy.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\china_circlebuilding\china_circlebuilding.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japan_circlebuilding\japan_circlebuilding.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\confucian_academy\confucian_academy.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\giant_buddha\giant_buddha.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\golden_pavilion\golden_pavilion.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\imperial_palace\imperial_palace.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japanese_castle\japanese_castle.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japan_bansho\japan_bansho.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japan_consulate\japan_consulate.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japan_dojo\japan_dojo.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japan_market\japan_market.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japan_monastery\japan_monastery.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japan_stable\japan_stable.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japan_towncenter\japan_towncenter.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\mainbuilding\mainbuilding.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\porcelain_tower\porcelain_tower.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\summer_palace\summer_palace.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\tallbuilding\tallbuilding.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\temple_of_heaven\temple_of_heaven.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\topbuilding\topbuilding.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\torii_gates\torii_gates.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\toshogu_shrine\toshogu_shrine.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\china_waterbuilding\china_waterbuilding.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japan_waterbuilding\japan_waterbuilding.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\white_pagoda\white_pagoda.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\widebuilding\widebuilding.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\china_boatbuilding\boatbuilding.(1,1,8,8)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japan_boatbuilding\boatbuilding01.(1,1,8,8)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\castle_regicide\castle_regicide.(1,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\china_castle\china_castle_age4.(1,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\china_consulate\china_consulate_age4_diffuse.(1,_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\china_consulate\asian_accessories01.(1,1,8,6)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\china_market\china_market_age4.(0,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\china_market\asian_accessories01.(1,1,8,6)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\china_monastery\china_monastery_age4.(1,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\china_monastery\asian_accessories01.(1,1,8,6)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\china_towncenter\china_towncenter_age4.(0,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\china_towncenter\asian_accessories01.(1,1,8,6)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\china_waracademy\china_waracademy_age4.(1,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\china_waracademy\asian_accessories01.(1,1,8,6)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\china_circlebuilding\circlebuilding.(1,1,8,8)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japan_circlebuilding\courtbuilding01.(1,1,8,8)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\confucian_academy\confucian_academy.(0,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\confucian_academy\asian_accessories01.(1,1,8,6)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\giant_buddha\giant_buddha.(1,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\golden_pavilion\golden_pavilion_diffuse.(1,1,8,7_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\imperial_palace\imperial_palace.(1,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\imperial_palace\tree_japanese_maple.(0,4,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japanese_castle\japanese_castle_age4.(1,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japan_bansho\asian_accessories01.(1,1,8,6)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japan_bansho\japan_bansho_age2.(1,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japan_consulate\japan_consulate_age4_diffuse.(0,_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japan_consulate\asian_accessories01.(1,1,8,6)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japan_dojo\japan_dojo_age4.(0,4,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japan_dojo\asian_accessories01.(1,1,8,6)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japan_market\japan_market_age4.(0,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japan_market\asian_accessories01.(1,1,8,6)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japan_monastery\japan_monastery_age4.(0,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japan_monastery\asian_accessories01.(1,1,8,6)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japan_stable\Japan_Stable_Age04_diffuse.(0,1,_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japan_towncenter\japan_towncenter_age4.(1,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japan_towncenter\asian_accessories01.(1,1,8,6)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\mainbuilding\china_ship_galley_walls.(1,4,8,8_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\mainbuilding\china_ship_galley.(1,4,8,8)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\mainbuilding\china_ship_misc.(1,4,8,8)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\porcelain_tower\porcelain_tower.(1,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\summer_palace\summer_palace.(1,4,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\summer_palace\tree_japanese_pine.(0,4,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\summer_palace\summer_palace_stone.(0,0,4,6)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\tallbuilding\tallbuilding01.(1,1,8,8)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\temple_of_heaven\temple_of_heaven.(1,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\topbuilding\china_ship_galley.(1,4,8,8)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\topbuilding\china_ship_galley_walls.(1,4,8,8_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\torii_gates\torii_gates.(1,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\torii_gates\asian_accessories01.(1,1,8,6)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\toshogu_shrine\Toshogu_Shrine.(1,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\china_waterbuilding\waterbuilding.(1,1,8,8)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\japan_waterbuilding\waterbuilding01.(1,1,8,8)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\white_pagoda\White_Pagoda.(0,4,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\white_pagoda\tree_japanese_pine.(0,4,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\Models\Building\widebuilding\widebuilding.(1,1,8,8)_0.xnb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\Content\MD2Animation1.xml
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\ModuleObject.dll
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\ModuleObject.pdb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\MD2Runtime.dll
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\ModuleModel.dll
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\ModuleTerrain.dll
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\PK3Model.dll
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\ModuleModel.pdb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\ModuleTerrain.pdb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\MD2Runtime.pdb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\bin\x86\Debug\PK3Model.pdb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\obj\x86\Debug\ModuleObject.dll
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleObject\obj\x86\Debug\ModuleObject.pdb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Effects\ParticleEffect.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Textures\fire.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Textures\smoke.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Textures\explosion.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Textures\WhiteParticle.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Textures\BlueParticle.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v1.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Textures\YellowParticle.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v2.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Textures\GreenParticle.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v3.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v4-small.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v4.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v5-small.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v5.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v6-small.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v6.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v7-small.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v7.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Textures\VioletParticle.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v8.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Textures\powerHoa.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Textures\powerThuy.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Textures\powerKim.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Textures\powerMoc.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Textures\powerTho.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\knight.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\lightningSword.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\dragonknight_dragon_blue.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\dragonknight_dragon_green.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\dragonknight_dragon_ogre.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\dragonknight_dragon_red.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\dragonknight_dragon_yellow.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\dragonknight_knight.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\knight.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\lightningSword.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Effects\bbEffect.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Effects\Series4Effects.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\dragonknight_knight.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\dragonknight_dragon.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\MD2Animation1.xml
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\ModuleObject.dll
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\ModuleObject.pdb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\MD2Runtime.dll
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\ModuleModel.dll
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\ParticleSystemCore.dll
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\PK3Model.dll
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\ModuleModel.pdb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\MD2Runtime.pdb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\PK3Model.pdb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\ParticleSystemCore.pdb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\obj\x86\Debug\ModuleObject.dll
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\obj\x86\Debug\ModuleObject.pdb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_boatbuilding\china_boatbuilding.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_boatbuilding\japan_boatbuilding.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\castle_regicide\castle_regicide.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_castle\china_castle.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_consulate\china_consulate.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_market\china_market.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_monastery\china_monastery.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_towncenter\china_towncenter.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_waracademy\china_waracademy.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_circlebuilding\china_circlebuilding.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_circlebuilding\japan_circlebuilding.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\confucian_academy\confucian_academy.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\giant_buddha\giant_buddha.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\golden_pavilion\golden_pavilion.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\imperial_palace\imperial_palace.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japanese_castle\japanese_castle.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_bansho\japan_bansho.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_consulate\japan_consulate.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_dojo\japan_dojo.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_market\japan_market.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_monastery\japan_monastery.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_stable\japan_stable.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_towncenter\japan_towncenter.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\mainbuilding\mainbuilding.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\porcelain_tower\porcelain_tower.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\summer_palace\summer_palace.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\tallbuilding\tallbuilding.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\temple_of_heaven\temple_of_heaven.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\topbuilding\topbuilding.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\torii_gates\torii_gates.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\toshogu_shrine\toshogu_shrine.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_waterbuilding\china_waterbuilding.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_waterbuilding\japan_waterbuilding.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\white_pagoda\white_pagoda.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\widebuilding\widebuilding.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_boatbuilding\boatbuilding.(1,1,8,8)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_boatbuilding\boatbuilding01.(1,1,8,8)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\castle_regicide\castle_regicide.(1,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_castle\china_castle_age4.(1,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_consulate\china_consulate_age4_diffuse.(1,_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_consulate\asian_accessories01.(1,1,8,6)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_market\china_market_age4.(0,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_market\asian_accessories01.(1,1,8,6)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_monastery\china_monastery_age4.(1,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_monastery\asian_accessories01.(1,1,8,6)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_towncenter\china_towncenter_age4.(0,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_towncenter\asian_accessories01.(1,1,8,6)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_waracademy\china_waracademy_age4.(1,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_waracademy\asian_accessories01.(1,1,8,6)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_circlebuilding\circlebuilding.(1,1,8,8)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_circlebuilding\courtbuilding01.(1,1,8,8)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\confucian_academy\confucian_academy.(0,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\confucian_academy\asian_accessories01.(1,1,8,6)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\giant_buddha\giant_buddha.(1,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\golden_pavilion\golden_pavilion_diffuse.(1,1,8,7_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\imperial_palace\imperial_palace.(1,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\imperial_palace\tree_japanese_maple.(0,4,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japanese_castle\japanese_castle_age4.(1,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_bansho\asian_accessories01.(1,1,8,6)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_bansho\japan_bansho_age2.(1,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_consulate\japan_consulate_age4_diffuse.(0,_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_consulate\asian_accessories01.(1,1,8,6)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_dojo\japan_dojo_age4.(0,4,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_dojo\asian_accessories01.(1,1,8,6)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_market\japan_market_age4.(0,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_market\asian_accessories01.(1,1,8,6)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_monastery\japan_monastery_age4.(0,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_monastery\asian_accessories01.(1,1,8,6)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_stable\Japan_Stable_Age04_diffuse.(0,1,_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_towncenter\japan_towncenter_age4.(1,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_towncenter\asian_accessories01.(1,1,8,6)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\mainbuilding\china_ship_galley_walls.(1,4,8,8_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\mainbuilding\china_ship_galley.(1,4,8,8)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\mainbuilding\china_ship_misc.(1,4,8,8)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\porcelain_tower\porcelain_tower.(1,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\summer_palace\summer_palace.(1,4,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\summer_palace\tree_japanese_pine.(0,4,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\summer_palace\summer_palace_stone.(0,0,4,6)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\tallbuilding\tallbuilding01.(1,1,8,8)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\temple_of_heaven\temple_of_heaven.(1,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\topbuilding\china_ship_galley.(1,4,8,8)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\topbuilding\china_ship_galley_walls.(1,4,8,8_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\torii_gates\torii_gates.(1,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\torii_gates\asian_accessories01.(1,1,8,6)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\toshogu_shrine\Toshogu_Shrine.(1,1,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_waterbuilding\waterbuilding.(1,1,8,8)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_waterbuilding\waterbuilding01.(1,1,8,8)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\white_pagoda\White_Pagoda.(0,4,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\white_pagoda\tree_japanese_pine.(0,4,8,7)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\widebuilding\widebuilding.(1,1,8,8)_0.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\forgotten_blue.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\forgotten_brown.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\forgotten_green.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\forgotten_grey.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\forgotten_pink.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\forgotten_red.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\hunterred.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\linfangblack.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\linfangblue.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\linfangred.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\pknight_evil.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\pknight_knight.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\pknight_vikingblue.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\pknight_vikingred.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\rylablue.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\rylared.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\forgotten_weapon.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\hunter_weapon.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\linfang_weapon.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\ryla_weapon.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\forgottenone.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\forgottentwo.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\hunter.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\linfang.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\ryla.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\forgotten_weapon.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\hunter_weapon.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\linfang_weapon.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\ryla_weapon.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\ddz_weapon.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\ddz_blue.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\hakiru.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\hakiru_weapon.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\terminator_weapon.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\terminator_ultra.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\ddz.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\ddz_weapon.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\hakiru.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\hakiru_weapon.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\terminator.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\terminator_weapon.xnb
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\MD2Animation3.xml
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleObject\bin\x86\Debug\Content\MD2Animation2.xml
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Effects\ParticleEffect.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Textures\fire.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Textures\smoke.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Textures\explosion.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Textures\WhiteParticle.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Textures\BlueParticle.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v1.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Textures\YellowParticle.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v2.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Textures\GreenParticle.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v3.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v4-small.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v4.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v5-small.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v5.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v6-small.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v6.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v7-small.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v7.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Textures\VioletParticle.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v8.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Textures\powerHoa.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Textures\powerThuy.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Textures\powerKim.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Textures\powerMoc.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Textures\powerTho.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\knight.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\lightningSword.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\dragonknight_dragon_blue.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\dragonknight_dragon_green.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\dragonknight_dragon_ogre.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\dragonknight_dragon_red.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\dragonknight_dragon_yellow.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\dragonknight_knight.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\forgotten_blue.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\forgotten_brown.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\forgotten_green.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\forgotten_grey.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\forgotten_pink.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\forgotten_red.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\hunterred.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\linfangblack.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\linfangblue.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\linfangred.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\pknight_evil.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\pknight_knight.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\pknight_vikingblue.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\pknight_vikingred.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\rylablue.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\rylared.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\forgotten_weapon.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\hunter_weapon.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\linfang_weapon.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\ryla_weapon.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\ddz_weapon.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\ddz_blue.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\hakiru.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\hakiru_weapon.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\terminator_weapon.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\terminator_ultra.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\knight.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\lightningSword.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_boatbuilding\china_boatbuilding.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_boatbuilding\japan_boatbuilding.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\castle_regicide\castle_regicide.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_castle\china_castle.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_consulate\china_consulate.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_market\china_market.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_monastery\china_monastery.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_towncenter\china_towncenter.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_waracademy\china_waracademy.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_circlebuilding\china_circlebuilding.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_circlebuilding\japan_circlebuilding.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\confucian_academy\confucian_academy.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\giant_buddha\giant_buddha.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\golden_pavilion\golden_pavilion.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\imperial_palace\imperial_palace.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japanese_castle\japanese_castle.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_bansho\japan_bansho.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_consulate\japan_consulate.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_dojo\japan_dojo.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_market\japan_market.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_monastery\japan_monastery.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_stable\japan_stable.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_towncenter\japan_towncenter.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\mainbuilding\mainbuilding.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\porcelain_tower\porcelain_tower.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\summer_palace\summer_palace.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\tallbuilding\tallbuilding.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\temple_of_heaven\temple_of_heaven.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\topbuilding\topbuilding.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\torii_gates\torii_gates.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\toshogu_shrine\toshogu_shrine.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_waterbuilding\china_waterbuilding.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_waterbuilding\japan_waterbuilding.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\white_pagoda\white_pagoda.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\widebuilding\widebuilding.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Effects\bbEffect.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Effects\Series4Effects.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\dragonknight_knight.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\dragonknight_dragon.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\forgottenone.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\forgottentwo.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\hunter.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\linfang.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\ryla.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\forgotten_weapon.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\hunter_weapon.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\linfang_weapon.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\ryla_weapon.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\ddz.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\ddz_weapon.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\hakiru.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\hakiru_weapon.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\terminator.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\terminator_weapon.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_boatbuilding\boatbuilding.(1,1,8,8)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_boatbuilding\boatbuilding01.(1,1,8,8)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\castle_regicide\castle_regicide.(1,1,8,7)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_castle\china_castle_age4.(1,1,8,7)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_consulate\china_consulate_age4_diffuse.(1,_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_consulate\asian_accessories01.(1,1,8,6)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_market\china_market_age4.(0,1,8,7)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_market\asian_accessories01.(1,1,8,6)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_monastery\china_monastery_age4.(1,1,8,7)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_monastery\asian_accessories01.(1,1,8,6)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_towncenter\china_towncenter_age4.(0,1,8,7)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_towncenter\asian_accessories01.(1,1,8,6)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_waracademy\china_waracademy_age4.(1,1,8,7)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_waracademy\asian_accessories01.(1,1,8,6)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_circlebuilding\circlebuilding.(1,1,8,8)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_circlebuilding\courtbuilding01.(1,1,8,8)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\confucian_academy\confucian_academy.(0,1,8,7)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\confucian_academy\asian_accessories01.(1,1,8,6)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\giant_buddha\giant_buddha.(1,1,8,7)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\golden_pavilion\golden_pavilion_diffuse.(1,1,8,7_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\imperial_palace\imperial_palace.(1,1,8,7)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\imperial_palace\tree_japanese_maple.(0,4,8,7)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japanese_castle\japanese_castle_age4.(1,1,8,7)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_bansho\asian_accessories01.(1,1,8,6)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_bansho\japan_bansho_age2.(1,1,8,7)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_consulate\japan_consulate_age4_diffuse.(0,_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_consulate\asian_accessories01.(1,1,8,6)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_dojo\japan_dojo_age4.(0,4,8,7)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_dojo\asian_accessories01.(1,1,8,6)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_market\japan_market_age4.(0,1,8,7)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_market\asian_accessories01.(1,1,8,6)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_monastery\japan_monastery_age4.(0,1,8,7)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_monastery\asian_accessories01.(1,1,8,6)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_stable\Japan_Stable_Age04_diffuse.(0,1,_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_towncenter\japan_towncenter_age4.(1,1,8,7)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_towncenter\asian_accessories01.(1,1,8,6)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\mainbuilding\china_ship_galley_walls.(1,4,8,8_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\mainbuilding\china_ship_galley.(1,4,8,8)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\mainbuilding\china_ship_misc.(1,4,8,8)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\porcelain_tower\porcelain_tower.(1,1,8,7)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\summer_palace\summer_palace.(1,4,8,7)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\summer_palace\tree_japanese_pine.(0,4,8,7)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\summer_palace\summer_palace_stone.(0,0,4,6)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\tallbuilding\tallbuilding01.(1,1,8,8)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\temple_of_heaven\temple_of_heaven.(1,1,8,7)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\topbuilding\china_ship_galley.(1,4,8,8)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\topbuilding\china_ship_galley_walls.(1,4,8,8_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\torii_gates\torii_gates.(1,1,8,7)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\torii_gates\asian_accessories01.(1,1,8,6)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\toshogu_shrine\Toshogu_Shrine.(1,1,8,7)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_waterbuilding\waterbuilding.(1,1,8,8)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_waterbuilding\waterbuilding01.(1,1,8,8)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\white_pagoda\White_Pagoda.(0,4,8,7)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\white_pagoda\tree_japanese_pine.(0,4,8,7)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\widebuilding\widebuilding.(1,1,8,8)_0.xnb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\MD2Animation1.xml
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\MD2Animation3.xml
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\Content\MD2Animation2.xml
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\ModuleObject.dll
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\ModuleObject.pdb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\MD2Runtime.dll
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\ModuleModel.dll
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\ParticleSystemCore.dll
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\PK3Model.dll
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\ModuleModel.pdb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\MD2Runtime.pdb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\PK3Model.pdb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\bin\x86\Debug\ParticleSystemCore.pdb
+D:\2009-2010\Lab\__________\Demo\ModuleObject\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\2009-2010\Lab\__________\Demo\ModuleObject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\2009-2010\Lab\__________\Demo\ModuleObject\obj\x86\Debug\ModuleObject.dll
+D:\2009-2010\Lab\__________\Demo\ModuleObject\obj\x86\Debug\ModuleObject.pdb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Effects\ParticleEffect.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Textures\fire.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Textures\smoke.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Textures\explosion.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Textures\WhiteParticle.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Textures\BlueParticle.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v1.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Textures\YellowParticle.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v2.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Textures\GreenParticle.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v3.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v4-small.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v4.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v5-small.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v5.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v6-small.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v6.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v7-small.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v7.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Textures\VioletParticle.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v8.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Textures\powerHoa.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Textures\powerThuy.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Textures\powerKim.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Textures\powerMoc.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Textures\powerTho.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\knight.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\lightningSword.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\dragonknight_dragon_blue.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\dragonknight_dragon_green.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\dragonknight_dragon_ogre.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\dragonknight_dragon_red.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\dragonknight_dragon_yellow.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\dragonknight_knight.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\forgotten_blue.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\forgotten_brown.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\forgotten_green.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\forgotten_grey.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\forgotten_pink.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\forgotten_red.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\hunterred.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\linfangblack.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\linfangblue.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\linfangred.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\pknight_evil.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\pknight_knight.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\pknight_vikingblue.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\pknight_vikingred.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\rylablue.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\rylared.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\forgotten_weapon.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\hunter_weapon.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\linfang_weapon.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\ryla_weapon.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\ddz_weapon.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\ddz_blue.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\hakiru.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\hakiru_weapon.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\terminator_weapon.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\terminator_ultra.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\knight.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\lightningSword.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_boatbuilding\china_boatbuilding.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_boatbuilding\japan_boatbuilding.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\castle_regicide\castle_regicide.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_castle\china_castle.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_consulate\china_consulate.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_market\china_market.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_monastery\china_monastery.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_towncenter\china_towncenter.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_waracademy\china_waracademy.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_circlebuilding\china_circlebuilding.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_circlebuilding\japan_circlebuilding.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\confucian_academy\confucian_academy.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\giant_buddha\giant_buddha.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\golden_pavilion\golden_pavilion.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\imperial_palace\imperial_palace.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japanese_castle\japanese_castle.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_bansho\japan_bansho.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_consulate\japan_consulate.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_dojo\japan_dojo.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_market\japan_market.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_monastery\japan_monastery.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_stable\japan_stable.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_towncenter\japan_towncenter.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\mainbuilding\mainbuilding.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\porcelain_tower\porcelain_tower.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\summer_palace\summer_palace.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\tallbuilding\tallbuilding.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\temple_of_heaven\temple_of_heaven.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\topbuilding\topbuilding.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\torii_gates\torii_gates.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\toshogu_shrine\toshogu_shrine.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_waterbuilding\china_waterbuilding.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_waterbuilding\japan_waterbuilding.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\white_pagoda\white_pagoda.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\widebuilding\widebuilding.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Effects\bbEffect.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Effects\Series4Effects.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\dragonknight_knight.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\dragonknight_dragon.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\forgottenone.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\forgottentwo.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\hunter.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\linfang.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\ryla.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\forgotten_weapon.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\hunter_weapon.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\linfang_weapon.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\ryla_weapon.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\ddz.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\ddz_weapon.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\hakiru.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\hakiru_weapon.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\terminator.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\terminator_weapon.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_boatbuilding\boatbuilding.(1,1,8,8)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_boatbuilding\boatbuilding01.(1,1,8,8)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\castle_regicide\castle_regicide.(1,1,8,7)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_castle\china_castle_age4.(1,1,8,7)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_consulate\china_consulate_age4_diffuse.(1,_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_consulate\asian_accessories01.(1,1,8,6)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_market\china_market_age4.(0,1,8,7)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_market\asian_accessories01.(1,1,8,6)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_monastery\china_monastery_age4.(1,1,8,7)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_monastery\asian_accessories01.(1,1,8,6)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_towncenter\china_towncenter_age4.(0,1,8,7)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_towncenter\asian_accessories01.(1,1,8,6)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_waracademy\china_waracademy_age4.(1,1,8,7)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_waracademy\asian_accessories01.(1,1,8,6)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_circlebuilding\circlebuilding.(1,1,8,8)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_circlebuilding\courtbuilding01.(1,1,8,8)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\confucian_academy\confucian_academy.(0,1,8,7)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\confucian_academy\asian_accessories01.(1,1,8,6)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\giant_buddha\giant_buddha.(1,1,8,7)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\golden_pavilion\golden_pavilion_diffuse.(1,1,8,7_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\imperial_palace\imperial_palace.(1,1,8,7)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\imperial_palace\tree_japanese_maple.(0,4,8,7)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japanese_castle\japanese_castle_age4.(1,1,8,7)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_bansho\asian_accessories01.(1,1,8,6)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_bansho\japan_bansho_age2.(1,1,8,7)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_consulate\japan_consulate_age4_diffuse.(0,_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_consulate\asian_accessories01.(1,1,8,6)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_dojo\japan_dojo_age4.(0,4,8,7)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_dojo\asian_accessories01.(1,1,8,6)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_market\japan_market_age4.(0,1,8,7)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_market\asian_accessories01.(1,1,8,6)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_monastery\japan_monastery_age4.(0,1,8,7)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_monastery\asian_accessories01.(1,1,8,6)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_stable\Japan_Stable_Age04_diffuse.(0,1,_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_towncenter\japan_towncenter_age4.(1,1,8,7)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_towncenter\asian_accessories01.(1,1,8,6)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\mainbuilding\china_ship_galley_walls.(1,4,8,8_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\mainbuilding\china_ship_galley.(1,4,8,8)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\mainbuilding\china_ship_misc.(1,4,8,8)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\porcelain_tower\porcelain_tower.(1,1,8,7)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\summer_palace\summer_palace.(1,4,8,7)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\summer_palace\tree_japanese_pine.(0,4,8,7)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\summer_palace\summer_palace_stone.(0,0,4,6)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\tallbuilding\tallbuilding01.(1,1,8,8)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\temple_of_heaven\temple_of_heaven.(1,1,8,7)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\topbuilding\china_ship_galley.(1,4,8,8)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\topbuilding\china_ship_galley_walls.(1,4,8,8_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\torii_gates\torii_gates.(1,1,8,7)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\torii_gates\asian_accessories01.(1,1,8,6)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\toshogu_shrine\Toshogu_Shrine.(1,1,8,7)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_waterbuilding\waterbuilding.(1,1,8,8)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_waterbuilding\waterbuilding01.(1,1,8,8)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\white_pagoda\White_Pagoda.(0,4,8,7)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\white_pagoda\tree_japanese_pine.(0,4,8,7)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\widebuilding\widebuilding.(1,1,8,8)_0.xnb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\MD2Animation1.xml
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\MD2Animation3.xml
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\Content\MD2Animation2.xml
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\ModuleObject.dll
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\ModuleObject.pdb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\MD2Runtime.dll
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\ModuleModel.dll
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\ParticleSystemCore.dll
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\PK3Model.dll
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\ModuleModel.pdb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\MD2Runtime.pdb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\PK3Model.pdb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\bin\x86\Debug\ParticleSystemCore.pdb
+D:\2009-2010\Lab\Final\Demo\ModuleObject\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\2009-2010\Lab\Final\Demo\ModuleObject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\2009-2010\Lab\Final\Demo\ModuleObject\obj\x86\Debug\ModuleObject.dll
+D:\2009-2010\Lab\Final\Demo\ModuleObject\obj\x86\Debug\ModuleObject.pdb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Effects\ParticleEffect.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Textures\fire.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Textures\smoke.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Textures\explosion.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Textures\WhiteParticle.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Textures\BlueParticle.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v1.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Textures\YellowParticle.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v2.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Textures\GreenParticle.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v3.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v4-small.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v4.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v5-small.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v5.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v6-small.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v6.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v7-small.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v7.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Textures\VioletParticle.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Textures\6943-v8.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Textures\powerHoa.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Textures\powerThuy.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Textures\powerKim.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Textures\powerMoc.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Textures\powerTho.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\knight.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\lightningSword.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\dragonknight_dragon_blue.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\dragonknight_dragon_green.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\dragonknight_dragon_ogre.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\dragonknight_dragon_red.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\dragonknight_dragon_yellow.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\dragonknight_knight.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\forgotten_blue.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\forgotten_brown.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\forgotten_green.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\forgotten_grey.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\forgotten_pink.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\forgotten_red.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\hunterred.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\linfangblack.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\linfangblue.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\linfangred.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\pknight_evil.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\pknight_knight.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\pknight_vikingblue.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\pknight_vikingred.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\rylablue.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\rylared.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\forgotten_weapon.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\hunter_weapon.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\linfang_weapon.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\ryla_weapon.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\ddz_weapon.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\ddz_blue.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\hakiru.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\hakiru_weapon.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\WeaponTextures\terminator_weapon.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Images\Army\BodyTextures\terminator_ultra.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\knight.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\lightningSword.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_boatbuilding\china_boatbuilding.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_boatbuilding\japan_boatbuilding.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\castle_regicide\castle_regicide.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_castle\china_castle.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_consulate\china_consulate.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_market\china_market.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_monastery\china_monastery.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_towncenter\china_towncenter.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_waracademy\china_waracademy.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_circlebuilding\china_circlebuilding.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_circlebuilding\japan_circlebuilding.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\confucian_academy\confucian_academy.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\giant_buddha\giant_buddha.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\golden_pavilion\golden_pavilion.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\imperial_palace\imperial_palace.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japanese_castle\japanese_castle.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_bansho\japan_bansho.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_consulate\japan_consulate.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_dojo\japan_dojo.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_market\japan_market.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_monastery\japan_monastery.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_stable\japan_stable.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_towncenter\japan_towncenter.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\mainbuilding\mainbuilding.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\porcelain_tower\porcelain_tower.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\summer_palace\summer_palace.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\tallbuilding\tallbuilding.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\temple_of_heaven\temple_of_heaven.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\topbuilding\topbuilding.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\torii_gates\torii_gates.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\toshogu_shrine\toshogu_shrine.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_waterbuilding\china_waterbuilding.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_waterbuilding\japan_waterbuilding.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\white_pagoda\white_pagoda.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\widebuilding\widebuilding.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Effects\bbEffect.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Effects\Series4Effects.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\dragonknight_knight.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\dragonknight_dragon.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\forgottenone.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\forgottentwo.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\hunter.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\linfang.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\ryla.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\forgotten_weapon.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\hunter_weapon.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\linfang_weapon.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\ryla_weapon.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\ddz.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\ddz_weapon.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\hakiru.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\hakiru_weapon.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\BodyModels\terminator.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Army\WeaponModels\terminator_weapon.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_boatbuilding\boatbuilding.(1,1,8,8)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_boatbuilding\boatbuilding01.(1,1,8,8)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\castle_regicide\castle_regicide.(1,1,8,7)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_castle\china_castle_age4.(1,1,8,7)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_consulate\china_consulate_age4_diffuse.(1,_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_consulate\asian_accessories01.(1,1,8,6)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_market\china_market_age4.(0,1,8,7)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_market\asian_accessories01.(1,1,8,6)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_monastery\china_monastery_age4.(1,1,8,7)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_monastery\asian_accessories01.(1,1,8,6)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_towncenter\china_towncenter_age4.(0,1,8,7)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_towncenter\asian_accessories01.(1,1,8,6)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_waracademy\china_waracademy_age4.(1,1,8,7)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_waracademy\asian_accessories01.(1,1,8,6)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_circlebuilding\circlebuilding.(1,1,8,8)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_circlebuilding\courtbuilding01.(1,1,8,8)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\confucian_academy\confucian_academy.(0,1,8,7)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\confucian_academy\asian_accessories01.(1,1,8,6)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\giant_buddha\giant_buddha.(1,1,8,7)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\golden_pavilion\golden_pavilion_diffuse.(1,1,8,7_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\imperial_palace\imperial_palace.(1,1,8,7)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\imperial_palace\tree_japanese_maple.(0,4,8,7)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japanese_castle\japanese_castle_age4.(1,1,8,7)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_bansho\asian_accessories01.(1,1,8,6)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_bansho\japan_bansho_age2.(1,1,8,7)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_consulate\japan_consulate_age4_diffuse.(0,_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_consulate\asian_accessories01.(1,1,8,6)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_dojo\japan_dojo_age4.(0,4,8,7)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_dojo\asian_accessories01.(1,1,8,6)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_market\japan_market_age4.(0,1,8,7)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_market\asian_accessories01.(1,1,8,6)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_monastery\japan_monastery_age4.(0,1,8,7)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_monastery\asian_accessories01.(1,1,8,6)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_stable\Japan_Stable_Age04_diffuse.(0,1,_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_towncenter\japan_towncenter_age4.(1,1,8,7)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_towncenter\asian_accessories01.(1,1,8,6)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\mainbuilding\china_ship_galley_walls.(1,4,8,8_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\mainbuilding\china_ship_galley.(1,4,8,8)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\mainbuilding\china_ship_misc.(1,4,8,8)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\porcelain_tower\porcelain_tower.(1,1,8,7)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\summer_palace\summer_palace.(1,4,8,7)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\summer_palace\tree_japanese_pine.(0,4,8,7)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\summer_palace\summer_palace_stone.(0,0,4,6)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\tallbuilding\tallbuilding01.(1,1,8,8)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\temple_of_heaven\temple_of_heaven.(1,1,8,7)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\topbuilding\china_ship_galley.(1,4,8,8)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\topbuilding\china_ship_galley_walls.(1,4,8,8_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\torii_gates\torii_gates.(1,1,8,7)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\torii_gates\asian_accessories01.(1,1,8,6)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\toshogu_shrine\Toshogu_Shrine.(1,1,8,7)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\china_waterbuilding\waterbuilding.(1,1,8,8)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\japan_waterbuilding\waterbuilding01.(1,1,8,8)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\white_pagoda\White_Pagoda.(0,4,8,7)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\white_pagoda\tree_japanese_pine.(0,4,8,7)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\Models\Buildings\widebuilding\widebuilding.(1,1,8,8)_0.xnb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\MD2Animation1.xml
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\MD2Animation3.xml
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\Content\MD2Animation2.xml
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\ModuleObject.dll
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\ModuleObject.pdb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\MD2Runtime.dll
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\ModuleModel.dll
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\ParticleSystemCore.dll
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\PK3Model.dll
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\ModuleModel.pdb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\MD2Runtime.pdb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\PK3Model.pdb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\bin\x86\Debug\ParticleSystemCore.pdb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\obj\x86\Debug\ModuleObject.dll
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleObject\obj\x86\Debug\ModuleObject.pdb

@@ -1,0 +1,11 @@
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\ActionRecognitionEngine\bin\Release\EngineActionRecognition.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\ActionRecognitionEngine\bin\Release\EngineActionRecognition.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\ActionRecognitionEngine\bin\Release\ARInterface.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\ActionRecognitionEngine\bin\Release\DataAdapter.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\ActionRecognitionEngine\bin\Release\FARInterface.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\ActionRecognitionEngine\bin\Release\ARInterface.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\ActionRecognitionEngine\bin\Release\DataAdapter.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\ActionRecognitionEngine\bin\Release\FARInterface.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\ActionRecognitionEngine\obj\Release\ResolveAssemblyReference.cache
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\ActionRecognitionEngine\obj\Release\EngineActionRecognition.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\ActionRecognitionEngine\obj\Release\EngineActionRecognition.pdb

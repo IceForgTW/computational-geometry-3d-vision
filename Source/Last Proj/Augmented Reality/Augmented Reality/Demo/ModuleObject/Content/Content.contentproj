@@ -1,0 +1,550 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <ProjectGuid>39047d20-22af-4983-95ab-1f58be8cc243</ProjectGuid>
+    <ProjectTypeGuids>{96E2B04D-8817-42c6-938A-82C39BA4D311};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <XnaFrameworkVersion>v3.1</XnaFrameworkVersion>
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\$(Platform)\$(Configuration)</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <XnaPlatform>Windows</XnaPlatform>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <XnaPlatform>Windows</XnaPlatform>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.EffectImporter, Version=3.1.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.FBXImporter, Version=3.1.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.TextureImporter, Version=3.1.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.XImporter, Version=3.1.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.AudioImporters, Version=3.1.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.VideoImporters, Version=3.1.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Images\Army\BodyTextures\knight.bmp">
+      <Name>knight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\WeaponTextures\lightningSword.bmp">
+      <Name>lightningSword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\BodyTextures\dragonknight_dragon_blue.bmp">
+      <Name>dragonknight_dragon_blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\BodyTextures\dragonknight_dragon_green.bmp">
+      <Name>dragonknight_dragon_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\BodyTextures\dragonknight_dragon_ogre.bmp">
+      <Name>dragonknight_dragon_ogre</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\BodyTextures\dragonknight_dragon_red.bmp">
+      <Name>dragonknight_dragon_red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\BodyTextures\dragonknight_dragon_yellow.bmp">
+      <Name>dragonknight_dragon_yellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\WeaponTextures\dragonknight_knight.bmp">
+      <Name>dragonknight_knight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\BodyTextures\forgotten_blue.bmp">
+      <Name>forgotten_blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\BodyTextures\forgotten_brown.bmp">
+      <Name>forgotten_brown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\BodyTextures\forgotten_green.bmp">
+      <Name>forgotten_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\BodyTextures\forgotten_grey.bmp">
+      <Name>forgotten_grey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\BodyTextures\forgotten_pink.bmp">
+      <Name>forgotten_pink</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\BodyTextures\forgotten_red.bmp">
+      <Name>forgotten_red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\BodyTextures\hunterred.bmp">
+      <Name>hunterred</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\BodyTextures\linfangblack.bmp">
+      <Name>linfangblack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\BodyTextures\linfangblue.bmp">
+      <Name>linfangblue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\BodyTextures\linfangred.bmp">
+      <Name>linfangred</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\BodyTextures\pknight_evil.bmp">
+      <Name>pknight_evil</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\BodyTextures\pknight_knight.bmp">
+      <Name>pknight_knight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\BodyTextures\pknight_vikingblue.bmp">
+      <Name>pknight_vikingblue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\BodyTextures\pknight_vikingred.bmp">
+      <Name>pknight_vikingred</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\BodyTextures\rylablue.bmp">
+      <Name>rylablue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\BodyTextures\rylared.bmp">
+      <Name>rylared</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\WeaponTextures\forgotten_weapon.bmp">
+      <Name>forgotten_weapon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\WeaponTextures\hunter_weapon.bmp">
+      <Name>hunter_weapon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\WeaponTextures\linfang_weapon.bmp">
+      <Name>linfang_weapon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\WeaponTextures\ryla_weapon.bmp">
+      <Name>ryla_weapon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\WeaponTextures\ddz_weapon.bmp">
+      <Name>ddz_weapon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\BodyTextures\ddz_blue.bmp">
+      <Name>ddz_blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\BodyTextures\hakiru.bmp">
+      <Name>hakiru</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\WeaponTextures\hakiru_weapon.bmp">
+      <Name>hakiru_weapon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\WeaponTextures\terminator_weapon.bmp">
+      <Name>terminator_weapon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Images\Army\BodyTextures\terminator_ultra.bmp">
+      <Name>terminator_ultra</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Content Include="MD2Animation1.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Name>MD2Animation1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+    </Content>
+    <Content Include="MD2Animation3.xml">
+      <Name>MD2Animation3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MD2Animation2.xml">
+      <Name>MD2Animation2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Models\Army\BodyModels\knight.md2">
+      <Name>knight</Name>
+    </Compile>
+    <Compile Include="Models\Army\WeaponModels\lightningSword.md2">
+      <Name>lightningSword</Name>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\MD2Pipeline\MD2Pipeline.csproj">
+      <Project>{D71942BD-700B-445C-8247-6A4C0C78A9BC}</Project>
+      <Name>MD2Pipeline</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\PK3Loader\PK3Loader.csproj">
+      <Project>{76DCE596-F309-4963-9828-0B3DAB5AFAE5}</Project>
+      <Name>PK3Loader</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Models\Buildings\china_boatbuilding\china_boatbuilding.fbx">
+      <Name>china_boatbuilding</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\japan_boatbuilding\japan_boatbuilding.fbx">
+      <Name>japan_boatbuilding</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\castle_regicide\castle_regicide.fbx">
+      <Name>castle_regicide</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\china_castle\china_castle.fbx">
+      <Name>china_castle</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\china_consulate\china_consulate.fbx">
+      <Name>china_consulate</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\china_market\china_market.fbx">
+      <Name>china_market</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\china_monastery\china_monastery.fbx">
+      <Name>china_monastery</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\china_towncenter\china_towncenter.fbx">
+      <Name>china_towncenter</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\china_waracademy\china_waracademy.fbx">
+      <Name>china_waracademy</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\china_circlebuilding\china_circlebuilding.fbx">
+      <Name>china_circlebuilding</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\japan_circlebuilding\japan_circlebuilding.fbx">
+      <Name>japan_circlebuilding</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\confucian_academy\confucian_academy.fbx">
+      <Name>confucian_academy</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\giant_buddha\giant_buddha.fbx">
+      <Name>giant_buddha</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\golden_pavilion\golden_pavilion.fbx">
+      <Name>golden_pavilion</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\imperial_palace\imperial_palace.fbx">
+      <Name>imperial_palace</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\japanese_castle\japanese_castle.fbx">
+      <Name>japanese_castle</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\japan_bansho\japan_bansho.fbx">
+      <Name>japan_bansho</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\japan_consulate\japan_consulate.fbx">
+      <Name>japan_consulate</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\japan_dojo\japan_dojo.fbx">
+      <Name>japan_dojo</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\japan_market\japan_market.fbx">
+      <Name>japan_market</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\japan_monastery\japan_monastery.fbx">
+      <Name>japan_monastery</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\japan_stable\japan_stable.fbx">
+      <Name>japan_stable</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\japan_towncenter\japan_towncenter.fbx">
+      <Name>japan_towncenter</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\mainbuilding\mainbuilding.fbx">
+      <Name>mainbuilding</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\porcelain_tower\porcelain_tower.fbx">
+      <Name>porcelain_tower</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\summer_palace\summer_palace.fbx">
+      <Name>summer_palace</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\tallbuilding\tallbuilding.fbx">
+      <Name>tallbuilding</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\temple_of_heaven\temple_of_heaven.fbx">
+      <Name>temple_of_heaven</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\topbuilding\topbuilding.fbx">
+      <Name>topbuilding</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\torii_gates\torii_gates.fbx">
+      <Name>torii_gates</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\toshogu_shrine\toshogu_shrine.fbx">
+      <Name>toshogu_shrine</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\china_waterbuilding\china_waterbuilding.fbx">
+      <Name>china_waterbuilding</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\japan_waterbuilding\japan_waterbuilding.fbx">
+      <Name>japan_waterbuilding</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\white_pagoda\white_pagoda.fbx">
+      <Name>white_pagoda</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+    <Compile Include="Models\Buildings\widebuilding\widebuilding.fbx">
+      <Name>widebuilding</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Effects\bbEffect.fx">
+      <Name>bbEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+    </Compile>
+    <Compile Include="Effects\Series4Effects.fx">
+      <Name>Series4Effects</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Models\Army\WeaponModels\dragonknight_knight.md2">
+      <Name>dragonknight_knight</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Models\Army\BodyModels\dragonknight_dragon.md2">
+      <Name>dragonknight_dragon</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Models\Army\BodyModels\forgottenone.md2">
+      <Name>forgottenone</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+    </Compile>
+    <Compile Include="Models\Army\BodyModels\forgottentwo.md2">
+      <Name>forgottentwo</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+    </Compile>
+    <Compile Include="Models\Army\BodyModels\hunter.md2">
+      <Name>hunter</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+    </Compile>
+    <Compile Include="Models\Army\BodyModels\linfang.md2">
+      <Name>linfang</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+    </Compile>
+    <Compile Include="Models\Army\BodyModels\ryla.md2">
+      <Name>ryla</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Models\Army\WeaponModels\forgotten_weapon.md2">
+      <Name>forgotten_weapon</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+    </Compile>
+    <Compile Include="Models\Army\WeaponModels\hunter_weapon.md2">
+      <Name>hunter_weapon</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+    </Compile>
+    <Compile Include="Models\Army\WeaponModels\linfang_weapon.md2">
+      <Name>linfang_weapon</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+    </Compile>
+    <Compile Include="Models\Army\WeaponModels\ryla_weapon.md2">
+      <Name>ryla_weapon</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Models\Army\BodyModels\ddz.md2">
+      <Name>ddz</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Models\Army\WeaponModels\ddz_weapon.md2">
+      <Name>ddz_weapon</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Models\Army\BodyModels\hakiru.md2">
+      <Name>hakiru</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Models\Army\WeaponModels\hakiru_weapon.md2">
+      <Name>hakiru_weapon</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Models\Army\BodyModels\terminator.md2">
+      <Name>terminator</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Models\Army\WeaponModels\terminator_weapon.md2">
+      <Name>terminator_weapon</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\$(XnaFrameworkVersion)\Microsoft.Xna.GameStudio.ContentPipeline.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

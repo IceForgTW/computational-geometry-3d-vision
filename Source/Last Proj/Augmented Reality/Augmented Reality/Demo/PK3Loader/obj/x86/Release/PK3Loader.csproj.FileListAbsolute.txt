@@ -1,0 +1,18 @@
+D:\2009-2010\Lab\Final\Demo\PK3Loader\bin\x86\Release\PK3Loader.dll
+D:\2009-2010\Lab\Final\Demo\PK3Loader\bin\x86\Release\PK3Loader.pdb
+D:\2009-2010\Lab\Final\Demo\PK3Loader\bin\x86\Release\ICSharpCode.SharpZipLib.dll
+D:\2009-2010\Lab\Final\Demo\PK3Loader\bin\x86\Release\PK3Model.dll
+D:\2009-2010\Lab\Final\Demo\PK3Loader\bin\x86\Release\PK3Model.pdb
+D:\2009-2010\Lab\Final\Demo\PK3Loader\obj\x86\Release\ResolveAssemblyReference.cache
+D:\2009-2010\Lab\Final\Demo\PK3Loader\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\2009-2010\Lab\Final\Demo\PK3Loader\obj\x86\Release\PK3Loader.dll
+D:\2009-2010\Lab\Final\Demo\PK3Loader\obj\x86\Release\PK3Loader.pdb
+D:\2009-2010\Luan van\Source code\Demo\PK3Loader\bin\x86\Release\PK3Loader.dll
+D:\2009-2010\Luan van\Source code\Demo\PK3Loader\bin\x86\Release\PK3Loader.pdb
+D:\2009-2010\Luan van\Source code\Demo\PK3Loader\bin\x86\Release\ICSharpCode.SharpZipLib.dll
+D:\2009-2010\Luan van\Source code\Demo\PK3Loader\bin\x86\Release\PK3Model.dll
+D:\2009-2010\Luan van\Source code\Demo\PK3Loader\bin\x86\Release\PK3Model.pdb
+D:\2009-2010\Luan van\Source code\Demo\PK3Loader\obj\x86\Release\ResolveAssemblyReference.cache
+D:\2009-2010\Luan van\Source code\Demo\PK3Loader\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\2009-2010\Luan van\Source code\Demo\PK3Loader\obj\x86\Release\PK3Loader.dll
+D:\2009-2010\Luan van\Source code\Demo\PK3Loader\obj\x86\Release\PK3Loader.pdb

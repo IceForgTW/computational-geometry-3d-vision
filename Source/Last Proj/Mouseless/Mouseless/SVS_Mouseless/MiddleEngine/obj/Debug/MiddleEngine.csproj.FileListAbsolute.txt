@@ -1,0 +1,17 @@
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\MiddleEngine\bin\Debug\MiddleEngine.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\MiddleEngine\bin\Debug\MiddleEngine.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\MiddleEngine\bin\Debug\EGEngine.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\MiddleEngine\bin\Debug\EngineActionRecognition.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\MiddleEngine\bin\Debug\EGInterface.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\MiddleEngine\bin\Debug\ARInterface.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\MiddleEngine\bin\Debug\FARInterface.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\MiddleEngine\bin\Debug\EGInterface.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\MiddleEngine\bin\Debug\EngineActionRecognition.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\MiddleEngine\bin\Debug\EGEngine.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\MiddleEngine\bin\Debug\ARInterface.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\MiddleEngine\bin\Debug\FARInterface.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\MiddleEngine\obj\Debug\ResolveAssemblyReference.cache
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\MiddleEngine\obj\Debug\MiddleEngine.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\MiddleEngine\obj\Debug\MiddleEngine.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\MiddleEngine\bin\Debug\DataAdapter.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\MiddleEngine\bin\Debug\DataAdapter.pdb

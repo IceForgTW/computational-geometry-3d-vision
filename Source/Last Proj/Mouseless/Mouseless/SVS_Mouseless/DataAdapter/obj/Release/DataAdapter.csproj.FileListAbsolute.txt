@@ -1,0 +1,5 @@
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\DataAdapter\bin\Release\DataAdapter.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\DataAdapter\bin\Release\DataAdapter.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\DataAdapter\obj\Release\ResolveAssemblyReference.cache
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\DataAdapter\obj\Release\DataAdapter.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\DataAdapter\obj\Release\DataAdapter.pdb

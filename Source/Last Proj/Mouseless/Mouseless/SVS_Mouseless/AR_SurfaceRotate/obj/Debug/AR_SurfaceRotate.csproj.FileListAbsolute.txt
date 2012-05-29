@@ -1,0 +1,11 @@
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_SurfaceRotate\obj\Debug\ResolveAssemblyReference.cache
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_SurfaceRotate\bin\Debug\AR_SurfaceRotate.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_SurfaceRotate\bin\Debug\AR_SurfaceRotate.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_SurfaceRotate\bin\Debug\ARInterface.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_SurfaceRotate\bin\Debug\FARInterface.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_SurfaceRotate\bin\Debug\DataAdapter.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_SurfaceRotate\bin\Debug\ARInterface.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_SurfaceRotate\bin\Debug\DataAdapter.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_SurfaceRotate\bin\Debug\FARInterface.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_SurfaceRotate\obj\Debug\AR_SurfaceRotate.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_SurfaceRotate\obj\Debug\AR_SurfaceRotate.pdb

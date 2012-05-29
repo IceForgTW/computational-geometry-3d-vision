@@ -1,0 +1,9 @@
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EG_MouseMove\bin\Debug\EG_MouseMove.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EG_MouseMove\bin\Debug\EG_MouseMove.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EG_MouseMove\bin\Debug\EGInterface.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EG_MouseMove\bin\Debug\EGInterface.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EG_MouseMove\obj\Debug\ResolveAssemblyReference.cache
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EG_MouseMove\obj\Debug\EG_MouseMove.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EG_MouseMove\obj\Debug\EG_MouseMove.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\SVS_Mouseless\bin\Debug\EGPlugins\EG_MouseMove.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\SVS_Mouseless\bin\Debug\EGPlugins\EG_MouseMove.pdb

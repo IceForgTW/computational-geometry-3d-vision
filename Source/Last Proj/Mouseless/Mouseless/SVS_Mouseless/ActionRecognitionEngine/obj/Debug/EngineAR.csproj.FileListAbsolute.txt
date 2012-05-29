@@ -1,0 +1,9 @@
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\ActionRecognizer\bin\Debug\ActionRecognizer.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\ActionRecognizer\bin\Debug\ActionRecognizer.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\ActionRecognizer\bin\Debug\PluginInterface.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\ActionRecognizer\bin\Debug\PluginInterface.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\ActionRecognizer\obj\Debug\ResolveAssemblyReference.cache
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\ActionRecognizer\obj\Debug\ActionRecognizer.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\ActionRecognizer\obj\Debug\ActionRecognizer.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\ActionRecognizer\bin\Debug\PluginInterface_Action.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\ActionRecognizer\bin\Debug\PluginInterface_Action.pdb

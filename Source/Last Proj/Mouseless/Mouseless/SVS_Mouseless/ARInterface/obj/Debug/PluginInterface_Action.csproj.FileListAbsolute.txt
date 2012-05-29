@@ -1,0 +1,7 @@
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\PluginInterface_Action\bin\Debug\PluginInterface_Action.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\PluginInterface_Action\bin\Debug\PluginInterface_Action.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\PluginInterface_Action\bin\Debug\PluginInterface.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\PluginInterface_Action\bin\Debug\PluginInterface.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\PluginInterface_Action\obj\Debug\ResolveAssemblyReference.cache
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\PluginInterface_Action\obj\Debug\PluginInterface_Action.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\PluginInterface_Action\obj\Debug\PluginInterface_Action.pdb

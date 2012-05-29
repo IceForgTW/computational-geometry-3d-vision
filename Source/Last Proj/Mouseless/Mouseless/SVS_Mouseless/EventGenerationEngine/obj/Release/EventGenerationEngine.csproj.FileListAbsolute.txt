@@ -1,0 +1,7 @@
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EventGenerationEngine\bin\Release\EGEngine.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EventGenerationEngine\bin\Release\EGEngine.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EventGenerationEngine\bin\Release\EGInterface.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EventGenerationEngine\bin\Release\EGInterface.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EventGenerationEngine\obj\Release\ResolveAssemblyReference.cache
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EventGenerationEngine\obj\Release\EGEngine.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EventGenerationEngine\obj\Release\EGEngine.pdb

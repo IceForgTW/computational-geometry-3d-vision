@@ -1,0 +1,40 @@
+C:\Documents and Settings\hoangnd\Desktop\0071614060_code\XNAGameStudioCreatorsGuide_SecondEdition\Solutions\MGH26_AnimatedQuakeCharacter\MGH26_AnimatedQuakeCharacter\MD2Pipeline\bin\x86\Debug\MD2Pipeline.dll
+C:\Documents and Settings\hoangnd\Desktop\0071614060_code\XNAGameStudioCreatorsGuide_SecondEdition\Solutions\MGH26_AnimatedQuakeCharacter\MGH26_AnimatedQuakeCharacter\MD2Pipeline\bin\x86\Debug\MD2Pipeline.pdb
+C:\Documents and Settings\hoangnd\Desktop\0071614060_code\XNAGameStudioCreatorsGuide_SecondEdition\Solutions\MGH26_AnimatedQuakeCharacter\MGH26_AnimatedQuakeCharacter\MD2Pipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\hoangnd\Desktop\0071614060_code\XNAGameStudioCreatorsGuide_SecondEdition\Solutions\MGH26_AnimatedQuakeCharacter\MGH26_AnimatedQuakeCharacter\MD2Pipeline\obj\x86\Debug\MD2Pipeline.dll
+C:\Documents and Settings\hoangnd\Desktop\0071614060_code\XNAGameStudioCreatorsGuide_SecondEdition\Solutions\MGH26_AnimatedQuakeCharacter\MGH26_AnimatedQuakeCharacter\MD2Pipeline\obj\x86\Debug\MD2Pipeline.pdb
+D:\STUDY\LuanVanWorking\Report\Demo\MD2Pipeline\bin\x86\Debug\MD2Pipeline.dll
+D:\STUDY\LuanVanWorking\Report\Demo\MD2Pipeline\bin\x86\Debug\MD2Pipeline.pdb
+D:\STUDY\LuanVanWorking\Report\Demo\MD2Pipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\STUDY\LuanVanWorking\Report\Demo\MD2Pipeline\obj\x86\Debug\MD2Pipeline.dll
+D:\STUDY\LuanVanWorking\Report\Demo\MD2Pipeline\obj\x86\Debug\MD2Pipeline.pdb
+D:\STUDY\LuanVanWorking\Workspace\xxxdefender\Version02\XXXDefender\MD2Pipeline\bin\x86\Debug\MD2Pipeline.dll
+D:\STUDY\LuanVanWorking\Workspace\xxxdefender\Version02\XXXDefender\MD2Pipeline\bin\x86\Debug\MD2Pipeline.pdb
+D:\STUDY\LuanVanWorking\Workspace\xxxdefender\Version02\XXXDefender\MD2Pipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\STUDY\LuanVanWorking\Workspace\xxxdefender\Version02\XXXDefender\MD2Pipeline\obj\x86\Debug\MD2Pipeline.dll
+D:\STUDY\LuanVanWorking\Workspace\xxxdefender\Version02\XXXDefender\MD2Pipeline\obj\x86\Debug\MD2Pipeline.pdb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\MD2Pipeline\bin\x86\Debug\MD2Pipeline.dll
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\MD2Pipeline\bin\x86\Debug\MD2Pipeline.pdb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\MD2Pipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\MD2Pipeline\obj\x86\Debug\MD2Pipeline.dll
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\MD2Pipeline\obj\x86\Debug\MD2Pipeline.pdb
+D:\STUDY\LuanVanWorking\Workspace\Demo\MD2Pipeline\bin\x86\Debug\MD2Pipeline.dll
+D:\STUDY\LuanVanWorking\Workspace\Demo\MD2Pipeline\bin\x86\Debug\MD2Pipeline.pdb
+D:\STUDY\LuanVanWorking\Workspace\Demo\MD2Pipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\STUDY\LuanVanWorking\Workspace\Demo\MD2Pipeline\obj\x86\Debug\MD2Pipeline.dll
+D:\STUDY\LuanVanWorking\Workspace\Demo\MD2Pipeline\obj\x86\Debug\MD2Pipeline.pdb
+D:\2009-2010\Lab\__________\Demo\MD2Pipeline\bin\x86\Debug\MD2Pipeline.dll
+D:\2009-2010\Lab\__________\Demo\MD2Pipeline\bin\x86\Debug\MD2Pipeline.pdb
+D:\2009-2010\Lab\__________\Demo\MD2Pipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\2009-2010\Lab\__________\Demo\MD2Pipeline\obj\x86\Debug\MD2Pipeline.dll
+D:\2009-2010\Lab\__________\Demo\MD2Pipeline\obj\x86\Debug\MD2Pipeline.pdb
+D:\2009-2010\Lab\Final\Demo\MD2Pipeline\bin\x86\Debug\MD2Pipeline.dll
+D:\2009-2010\Lab\Final\Demo\MD2Pipeline\bin\x86\Debug\MD2Pipeline.pdb
+D:\2009-2010\Lab\Final\Demo\MD2Pipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\2009-2010\Lab\Final\Demo\MD2Pipeline\obj\x86\Debug\MD2Pipeline.dll
+D:\2009-2010\Lab\Final\Demo\MD2Pipeline\obj\x86\Debug\MD2Pipeline.pdb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\MD2Pipeline\bin\x86\Debug\MD2Pipeline.dll
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\MD2Pipeline\bin\x86\Debug\MD2Pipeline.pdb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\MD2Pipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\MD2Pipeline\obj\x86\Debug\MD2Pipeline.dll
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\MD2Pipeline\obj\x86\Debug\MD2Pipeline.pdb

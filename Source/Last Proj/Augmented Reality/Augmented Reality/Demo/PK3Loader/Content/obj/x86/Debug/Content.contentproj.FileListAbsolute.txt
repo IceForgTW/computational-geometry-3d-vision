@@ -1,0 +1,8 @@
+C:\Documents and Settings\hoangnd\My Documents\Downloads\Compressed\MD3Demo31\PK3Loader\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Demo\MD3Demo31\PK3Loader\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\STUDY\LuanVanWorking\Workspace\xxxdefender\Version02\XXXDefender\PK3Loader\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\PK3Loader\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\STUDY\LuanVanWorking\Workspace\Demo\PK3Loader\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\2009-2010\Lab\__________\Demo\PK3Loader\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\2009-2010\Lab\Final\Demo\PK3Loader\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\PK3Loader\Content\obj\x86\Debug\ResolveAssemblyReference.cache

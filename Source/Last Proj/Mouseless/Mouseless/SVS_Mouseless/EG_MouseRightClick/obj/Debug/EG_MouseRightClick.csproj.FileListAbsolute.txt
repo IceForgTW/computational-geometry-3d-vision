@@ -1,0 +1,5 @@
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\SVS_Mouseless\bin\Debug\EGPlugins\EG_MouseRightClick.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\SVS_Mouseless\bin\Debug\EGPlugins\EG_MouseRightClick.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EG_MouseRightClick\obj\Debug\ResolveAssemblyReference.cache
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EG_MouseRightClick\obj\Debug\EG_MouseRightClick.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\EG_MouseRightClick\obj\Debug\EG_MouseRightClick.pdb

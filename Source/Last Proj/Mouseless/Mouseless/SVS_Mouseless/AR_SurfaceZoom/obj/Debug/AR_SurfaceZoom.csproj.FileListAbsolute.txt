@@ -1,0 +1,5 @@
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\SVS_Mouseless\bin\Debug\ARPlugins\AR_SurfaceZoom.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\SVS_Mouseless\bin\Debug\ARPlugins\AR_SurfaceZoom.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_SurfaceZoom\obj\Debug\ResolveAssemblyReference.cache
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_SurfaceZoom\obj\Debug\AR_SurfaceZoom.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_SurfaceZoom\obj\Debug\AR_SurfaceZoom.pdb

@@ -1,0 +1,2126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Army\BodyTextures\knight.bmp</Source>
+      <Name>Images\Army\BodyTextures\knight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\BodyTextures\knight.xnb</Output>
+      <Time>2010-06-25T23:39:24+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\WeaponTextures\lightningSword.bmp</Source>
+      <Name>Images\Army\WeaponTextures\lightningSword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\WeaponTextures\lightningSword.xnb</Output>
+      <Time>2010-06-25T23:39:24+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\BodyTextures\dragonknight_dragon_blue.bmp</Source>
+      <Name>Images\Army\BodyTextures\dragonknight_dragon_blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\BodyTextures\dragonknight_dragon_blue.xnb</Output>
+      <Time>2008-02-03T07:39:58+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\BodyTextures\dragonknight_dragon_green.bmp</Source>
+      <Name>Images\Army\BodyTextures\dragonknight_dragon_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\BodyTextures\dragonknight_dragon_green.xnb</Output>
+      <Time>2008-02-03T07:39:58+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\BodyTextures\dragonknight_dragon_ogre.bmp</Source>
+      <Name>Images\Army\BodyTextures\dragonknight_dragon_ogre</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\BodyTextures\dragonknight_dragon_ogre.xnb</Output>
+      <Time>2008-02-03T07:39:58+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\BodyTextures\dragonknight_dragon_red.bmp</Source>
+      <Name>Images\Army\BodyTextures\dragonknight_dragon_red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\BodyTextures\dragonknight_dragon_red.xnb</Output>
+      <Time>2008-02-03T07:39:58+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\BodyTextures\dragonknight_dragon_yellow.bmp</Source>
+      <Name>Images\Army\BodyTextures\dragonknight_dragon_yellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\BodyTextures\dragonknight_dragon_yellow.xnb</Output>
+      <Time>2008-02-03T07:39:58+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\WeaponTextures\dragonknight_knight.bmp</Source>
+      <Name>Images\Army\WeaponTextures\dragonknight_knight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\WeaponTextures\dragonknight_knight.xnb</Output>
+      <Time>2008-02-03T07:40:04+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\BodyTextures\forgotten_blue.bmp</Source>
+      <Name>Images\Army\BodyTextures\forgotten_blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\BodyTextures\forgotten_blue.xnb</Output>
+      <Time>2008-02-04T07:14:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\BodyTextures\forgotten_brown.bmp</Source>
+      <Name>Images\Army\BodyTextures\forgotten_brown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\BodyTextures\forgotten_brown.xnb</Output>
+      <Time>2008-02-04T07:14:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\BodyTextures\forgotten_green.bmp</Source>
+      <Name>Images\Army\BodyTextures\forgotten_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\BodyTextures\forgotten_green.xnb</Output>
+      <Time>2008-02-04T07:14:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\BodyTextures\forgotten_grey.bmp</Source>
+      <Name>Images\Army\BodyTextures\forgotten_grey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\BodyTextures\forgotten_grey.xnb</Output>
+      <Time>2008-02-04T07:14:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\BodyTextures\forgotten_pink.bmp</Source>
+      <Name>Images\Army\BodyTextures\forgotten_pink</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\BodyTextures\forgotten_pink.xnb</Output>
+      <Time>2008-02-04T07:14:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\BodyTextures\forgotten_red.bmp</Source>
+      <Name>Images\Army\BodyTextures\forgotten_red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\BodyTextures\forgotten_red.xnb</Output>
+      <Time>2008-02-04T07:14:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\BodyTextures\hunterred.bmp</Source>
+      <Name>Images\Army\BodyTextures\hunterred</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\BodyTextures\hunterred.xnb</Output>
+      <Time>2008-02-04T07:14:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\BodyTextures\linfangblack.bmp</Source>
+      <Name>Images\Army\BodyTextures\linfangblack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\BodyTextures\linfangblack.xnb</Output>
+      <Time>2008-02-04T07:14:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\BodyTextures\linfangblue.bmp</Source>
+      <Name>Images\Army\BodyTextures\linfangblue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\BodyTextures\linfangblue.xnb</Output>
+      <Time>2008-02-04T07:14:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\BodyTextures\linfangred.bmp</Source>
+      <Name>Images\Army\BodyTextures\linfangred</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\BodyTextures\linfangred.xnb</Output>
+      <Time>2008-02-04T07:14:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\BodyTextures\pknight_evil.bmp</Source>
+      <Name>Images\Army\BodyTextures\pknight_evil</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\BodyTextures\pknight_evil.xnb</Output>
+      <Time>2008-02-04T07:14:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\BodyTextures\pknight_knight.bmp</Source>
+      <Name>Images\Army\BodyTextures\pknight_knight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\BodyTextures\pknight_knight.xnb</Output>
+      <Time>2008-02-04T07:14:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\BodyTextures\pknight_vikingblue.bmp</Source>
+      <Name>Images\Army\BodyTextures\pknight_vikingblue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\BodyTextures\pknight_vikingblue.xnb</Output>
+      <Time>2008-02-04T07:14:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\BodyTextures\pknight_vikingred.bmp</Source>
+      <Name>Images\Army\BodyTextures\pknight_vikingred</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\BodyTextures\pknight_vikingred.xnb</Output>
+      <Time>2008-02-04T07:14:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\BodyTextures\rylablue.bmp</Source>
+      <Name>Images\Army\BodyTextures\rylablue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\BodyTextures\rylablue.xnb</Output>
+      <Time>2008-02-04T07:14:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\BodyTextures\rylared.bmp</Source>
+      <Name>Images\Army\BodyTextures\rylared</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\BodyTextures\rylared.xnb</Output>
+      <Time>2008-02-04T07:14:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\WeaponTextures\forgotten_weapon.bmp</Source>
+      <Name>Images\Army\WeaponTextures\forgotten_weapon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\WeaponTextures\forgotten_weapon.xnb</Output>
+      <Time>2008-02-04T07:14:50+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\WeaponTextures\hunter_weapon.bmp</Source>
+      <Name>Images\Army\WeaponTextures\hunter_weapon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\WeaponTextures\hunter_weapon.xnb</Output>
+      <Time>2008-02-04T07:14:50+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\WeaponTextures\linfang_weapon.bmp</Source>
+      <Name>Images\Army\WeaponTextures\linfang_weapon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\WeaponTextures\linfang_weapon.xnb</Output>
+      <Time>2008-02-04T07:14:50+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\WeaponTextures\ryla_weapon.bmp</Source>
+      <Name>Images\Army\WeaponTextures\ryla_weapon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\WeaponTextures\ryla_weapon.xnb</Output>
+      <Time>2008-02-04T07:14:50+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\WeaponTextures\ddz_weapon.bmp</Source>
+      <Name>Images\Army\WeaponTextures\ddz_weapon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\WeaponTextures\ddz_weapon.xnb</Output>
+      <Time>2008-02-04T07:21:52+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\BodyTextures\ddz_blue.bmp</Source>
+      <Name>Images\Army\BodyTextures\ddz_blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\BodyTextures\ddz_blue.xnb</Output>
+      <Time>2008-02-04T07:22:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\BodyTextures\hakiru.bmp</Source>
+      <Name>Images\Army\BodyTextures\hakiru</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\BodyTextures\hakiru.xnb</Output>
+      <Time>2008-02-04T07:26:14+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\WeaponTextures\hakiru_weapon.bmp</Source>
+      <Name>Images\Army\WeaponTextures\hakiru_weapon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\WeaponTextures\hakiru_weapon.xnb</Output>
+      <Time>2008-02-04T07:26:28+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\WeaponTextures\terminator_weapon.bmp</Source>
+      <Name>Images\Army\WeaponTextures\terminator_weapon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\WeaponTextures\terminator_weapon.xnb</Output>
+      <Time>2008-02-04T07:31:30+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Army\BodyTextures\terminator_ultra.bmp</Source>
+      <Name>Images\Army\BodyTextures\terminator_ultra</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Images\Army\BodyTextures\terminator_ultra.xnb</Output>
+      <Time>2008-02-04T07:31:38+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Army\BodyModels\knight.md2</Source>
+      <Name>Models\Army\BodyModels\knight</Name>
+      <Importer>MD2Importer</Importer>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Army\BodyModels\knight.xnb</Output>
+      <Time>2010-06-25T23:39:24+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Army\WeaponModels\lightningSword.md2</Source>
+      <Name>Models\Army\WeaponModels\lightningSword</Name>
+      <Importer>MD2Importer</Importer>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Army\WeaponModels\lightningSword.xnb</Output>
+      <Time>2010-06-25T23:39:24+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_boatbuilding\china_boatbuilding.fbx</Source>
+      <Name>Models\Buildings\china_boatbuilding\china_boatbuilding</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_boatbuilding\china_boatbuilding.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\china_boatbuilding\china_boatbuilding_0.xml</Key>
+        <Value>2010-08-04T14:07:30.8125+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_boatbuilding\boatbuilding.(1,1,8,8)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_boatbuilding\japan_boatbuilding.fbx</Source>
+      <Name>Models\Buildings\japan_boatbuilding\japan_boatbuilding</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_boatbuilding\japan_boatbuilding.xnb</Output>
+      <Time>2010-07-13T22:10:46+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\japan_boatbuilding\japan_boatbuilding_0.xml</Key>
+        <Value>2010-08-04T14:07:31.859375+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_boatbuilding\boatbuilding01.(1,1,8,8)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\castle_regicide\castle_regicide.fbx</Source>
+      <Name>Models\Buildings\castle_regicide\castle_regicide</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\castle_regicide\castle_regicide.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\castle_regicide\castle_regicide_0.xml</Key>
+        <Value>2010-08-04T14:07:32.609375+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\castle_regicide\castle_regicide.(1,1,8,7)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_castle\china_castle.fbx</Source>
+      <Name>Models\Buildings\china_castle\china_castle</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_castle\china_castle.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\china_castle\china_castle_0.xml</Key>
+        <Value>2010-08-04T14:07:33+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_castle\china_castle_age4.(1,1,8,7)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_consulate\china_consulate.fbx</Source>
+      <Name>Models\Buildings\china_consulate\china_consulate</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_consulate\china_consulate.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\china_consulate\china_consulate_0.xml</Key>
+        <Value>2010-08-04T14:07:33.359375+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_consulate\china_consulate_age4_diffuse.(1,_0.xnb</Request>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_consulate\asian_accessories01.(1,1,8,6)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_market\china_market.fbx</Source>
+      <Name>Models\Buildings\china_market\china_market</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_market\china_market.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\china_market\china_market_0.xml</Key>
+        <Value>2010-08-04T14:07:33.828125+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_market\china_market_age4.(0,1,8,7)_0.xnb</Request>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_market\asian_accessories01.(1,1,8,6)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_monastery\china_monastery.fbx</Source>
+      <Name>Models\Buildings\china_monastery\china_monastery</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_monastery\china_monastery.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\china_monastery\china_monastery_0.xml</Key>
+        <Value>2010-08-04T14:07:34.375+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_monastery\china_monastery_age4.(1,1,8,7)_0.xnb</Request>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_monastery\asian_accessories01.(1,1,8,6)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_towncenter\china_towncenter.fbx</Source>
+      <Name>Models\Buildings\china_towncenter\china_towncenter</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_towncenter\china_towncenter.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\china_towncenter\china_towncenter_0.xml</Key>
+        <Value>2010-08-04T14:07:35.09375+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_towncenter\china_towncenter_age4.(0,1,8,7)_0.xnb</Request>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_towncenter\asian_accessories01.(1,1,8,6)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_waracademy\china_waracademy.fbx</Source>
+      <Name>Models\Buildings\china_waracademy\china_waracademy</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_waracademy\china_waracademy.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\china_waracademy\china_waracademy_0.xml</Key>
+        <Value>2010-08-04T14:07:35.59375+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_waracademy\china_waracademy_age4.(1,1,8,7)_0.xnb</Request>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_waracademy\asian_accessories01.(1,1,8,6)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_circlebuilding\china_circlebuilding.fbx</Source>
+      <Name>Models\Buildings\china_circlebuilding\china_circlebuilding</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_circlebuilding\china_circlebuilding.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\china_circlebuilding\china_circlebuilding_0.xml</Key>
+        <Value>2010-08-04T14:07:36.015625+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_circlebuilding\circlebuilding.(1,1,8,8)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_circlebuilding\japan_circlebuilding.fbx</Source>
+      <Name>Models\Buildings\japan_circlebuilding\japan_circlebuilding</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_circlebuilding\japan_circlebuilding.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\japan_circlebuilding\japan_circlebuilding_0.xml</Key>
+        <Value>2010-08-04T14:07:36.96875+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_circlebuilding\courtbuilding01.(1,1,8,8)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\confucian_academy\confucian_academy.fbx</Source>
+      <Name>Models\Buildings\confucian_academy\confucian_academy</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\confucian_academy\confucian_academy.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\confucian_academy\confucian_academy_0.xml</Key>
+        <Value>2010-08-04T14:07:38.390625+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\confucian_academy\confucian_academy.(0,1,8,7)_0.xnb</Request>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\confucian_academy\asian_accessories01.(1,1,8,6)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\giant_buddha\giant_buddha.fbx</Source>
+      <Name>Models\Buildings\giant_buddha\giant_buddha</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\giant_buddha\giant_buddha.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\giant_buddha\giant_buddha_0.xml</Key>
+        <Value>2010-08-04T14:07:38.890625+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\giant_buddha\giant_buddha.(1,1,8,7)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\golden_pavilion\golden_pavilion.fbx</Source>
+      <Name>Models\Buildings\golden_pavilion\golden_pavilion</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\golden_pavilion\golden_pavilion.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\golden_pavilion\golden_pavilion_0.xml</Key>
+        <Value>2010-08-04T14:07:39.28125+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\golden_pavilion\golden_pavilion_diffuse.(1,1,8,7_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\imperial_palace\imperial_palace.fbx</Source>
+      <Name>Models\Buildings\imperial_palace\imperial_palace</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\imperial_palace\imperial_palace.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\imperial_palace\imperial_palace_0.xml</Key>
+        <Value>2010-08-04T14:07:39.765625+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\imperial_palace\imperial_palace.(1,1,8,7)_0.xnb</Request>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\imperial_palace\tree_japanese_maple.(0,4,8,7)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japanese_castle\japanese_castle.fbx</Source>
+      <Name>Models\Buildings\japanese_castle\japanese_castle</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japanese_castle\japanese_castle.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\japanese_castle\japanese_castle_0.xml</Key>
+        <Value>2010-08-04T14:07:40.328125+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japanese_castle\japanese_castle_age4.(1,1,8,7)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_bansho\japan_bansho.fbx</Source>
+      <Name>Models\Buildings\japan_bansho\japan_bansho</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_bansho\japan_bansho.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\japan_bansho\japan_bansho_0.xml</Key>
+        <Value>2010-08-04T14:07:40.75+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_bansho\asian_accessories01.(1,1,8,6)_0.xnb</Request>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_bansho\japan_bansho_age2.(1,1,8,7)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_consulate\japan_consulate.fbx</Source>
+      <Name>Models\Buildings\japan_consulate\japan_consulate</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_consulate\japan_consulate.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\japan_consulate\japan_consulate_0.xml</Key>
+        <Value>2010-08-04T14:07:41.171875+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_consulate\japan_consulate_age4_diffuse.(0,_0.xnb</Request>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_consulate\asian_accessories01.(1,1,8,6)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_dojo\japan_dojo.fbx</Source>
+      <Name>Models\Buildings\japan_dojo\japan_dojo</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_dojo\japan_dojo.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\japan_dojo\japan_dojo_0.xml</Key>
+        <Value>2010-08-04T14:07:41.625+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_dojo\japan_dojo_age4.(0,4,8,7)_0.xnb</Request>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_dojo\asian_accessories01.(1,1,8,6)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_market\japan_market.fbx</Source>
+      <Name>Models\Buildings\japan_market\japan_market</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_market\japan_market.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\japan_market\japan_market_0.xml</Key>
+        <Value>2010-08-04T14:07:42.109375+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_market\japan_market_age4.(0,1,8,7)_0.xnb</Request>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_market\asian_accessories01.(1,1,8,6)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_monastery\japan_monastery.fbx</Source>
+      <Name>Models\Buildings\japan_monastery\japan_monastery</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_monastery\japan_monastery.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\japan_monastery\japan_monastery_0.xml</Key>
+        <Value>2010-08-04T14:07:42.65625+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_monastery\japan_monastery_age4.(0,1,8,7)_0.xnb</Request>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_monastery\asian_accessories01.(1,1,8,6)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_stable\japan_stable.fbx</Source>
+      <Name>Models\Buildings\japan_stable\japan_stable</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_stable\japan_stable.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\japan_stable\japan_stable_0.xml</Key>
+        <Value>2010-08-04T14:07:43.09375+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_stable\Japan_Stable_Age04_diffuse.(0,1,_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_towncenter\japan_towncenter.fbx</Source>
+      <Name>Models\Buildings\japan_towncenter\japan_towncenter</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_towncenter\japan_towncenter.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\japan_towncenter\japan_towncenter_0.xml</Key>
+        <Value>2010-08-04T14:07:43.53125+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_towncenter\japan_towncenter_age4.(1,1,8,7)_0.xnb</Request>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_towncenter\asian_accessories01.(1,1,8,6)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\mainbuilding\mainbuilding.fbx</Source>
+      <Name>Models\Buildings\mainbuilding\mainbuilding</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\mainbuilding\mainbuilding.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\mainbuilding\mainbuilding_0.xml</Key>
+        <Value>2010-08-04T14:07:44.21875+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\mainbuilding\china_ship_galley_walls.(1,4,8,8_0.xnb</Request>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\mainbuilding\china_ship_galley.(1,4,8,8)_0.xnb</Request>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\mainbuilding\china_ship_misc.(1,4,8,8)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\porcelain_tower\porcelain_tower.fbx</Source>
+      <Name>Models\Buildings\porcelain_tower\porcelain_tower</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\porcelain_tower\porcelain_tower.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\porcelain_tower\porcelain_tower_0.xml</Key>
+        <Value>2010-08-04T14:07:46.875+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\porcelain_tower\porcelain_tower.(1,1,8,7)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\summer_palace\summer_palace.fbx</Source>
+      <Name>Models\Buildings\summer_palace\summer_palace</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\summer_palace\summer_palace.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\summer_palace\summer_palace_0.xml</Key>
+        <Value>2010-08-04T14:07:47.546875+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\summer_palace\summer_palace.(1,4,8,7)_0.xnb</Request>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\summer_palace\tree_japanese_pine.(0,4,8,7)_0.xnb</Request>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\summer_palace\summer_palace_stone.(0,0,4,6)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\tallbuilding\tallbuilding.fbx</Source>
+      <Name>Models\Buildings\tallbuilding\tallbuilding</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\tallbuilding\tallbuilding.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\tallbuilding\tallbuilding_0.xml</Key>
+        <Value>2010-08-04T14:07:48.25+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\tallbuilding\tallbuilding01.(1,1,8,8)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\temple_of_heaven\temple_of_heaven.fbx</Source>
+      <Name>Models\Buildings\temple_of_heaven\temple_of_heaven</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\temple_of_heaven\temple_of_heaven.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\temple_of_heaven\temple_of_heaven_0.xml</Key>
+        <Value>2010-08-04T14:07:49.46875+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\temple_of_heaven\temple_of_heaven.(1,1,8,7)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\topbuilding\topbuilding.fbx</Source>
+      <Name>Models\Buildings\topbuilding\topbuilding</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\topbuilding\topbuilding.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\topbuilding\topbuilding_0.xml</Key>
+        <Value>2010-08-04T14:07:49.796875+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\topbuilding\china_ship_galley.(1,4,8,8)_0.xnb</Request>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\topbuilding\china_ship_galley_walls.(1,4,8,8_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\torii_gates\torii_gates.fbx</Source>
+      <Name>Models\Buildings\torii_gates\torii_gates</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\torii_gates\torii_gates.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\torii_gates\torii_gates_0.xml</Key>
+        <Value>2010-08-04T14:07:51.078125+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\torii_gates\torii_gates.(1,1,8,7)_0.xnb</Request>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\torii_gates\asian_accessories01.(1,1,8,6)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\toshogu_shrine\toshogu_shrine.fbx</Source>
+      <Name>Models\Buildings\toshogu_shrine\toshogu_shrine</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\toshogu_shrine\toshogu_shrine.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\toshogu_shrine\toshogu_shrine_0.xml</Key>
+        <Value>2010-08-04T14:07:51.578125+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\toshogu_shrine\Toshogu_Shrine.(1,1,8,7)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_waterbuilding\china_waterbuilding.fbx</Source>
+      <Name>Models\Buildings\china_waterbuilding\china_waterbuilding</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_waterbuilding\china_waterbuilding.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\china_waterbuilding\china_waterbuilding_0.xml</Key>
+        <Value>2010-08-04T14:07:51.953125+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_waterbuilding\waterbuilding.(1,1,8,8)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_waterbuilding\japan_waterbuilding.fbx</Source>
+      <Name>Models\Buildings\japan_waterbuilding\japan_waterbuilding</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_waterbuilding\japan_waterbuilding.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\japan_waterbuilding\japan_waterbuilding_0.xml</Key>
+        <Value>2010-08-04T14:07:52.703125+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_waterbuilding\waterbuilding01.(1,1,8,8)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\white_pagoda\white_pagoda.fbx</Source>
+      <Name>Models\Buildings\white_pagoda\white_pagoda</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\white_pagoda\white_pagoda.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\white_pagoda\white_pagoda_0.xml</Key>
+        <Value>2010-08-04T14:07:53.5+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\white_pagoda\White_Pagoda.(0,4,8,7)_0.xnb</Request>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\white_pagoda\tree_japanese_pine.(0,4,8,7)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\widebuilding\widebuilding.fbx</Source>
+      <Name>Models\Buildings\widebuilding\widebuilding</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\widebuilding\widebuilding.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Buildings\widebuilding\widebuilding_0.xml</Key>
+        <Value>2010-08-04T14:07:54.03125+07:00</Value>
+      </Dependency>
+      <Request>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\widebuilding\widebuilding.(1,1,8,8)_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Effects\bbEffect.fx</Source>
+      <Name>Effects\bbEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Effects\bbEffect.xnb</Output>
+      <Time>2008-02-02T22:55:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Series4Effects.fx</Source>
+      <Name>Effects\Series4Effects</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Effects\Series4Effects.xnb</Output>
+      <Time>2010-07-27T21:55:02+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Army\WeaponModels\dragonknight_knight.md2</Source>
+      <Name>Models\Army\WeaponModels\dragonknight_knight</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Army\WeaponModels\dragonknight_knight.xnb</Output>
+      <Time>2008-02-03T07:39:34+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Army\BodyModels\dragonknight_dragon.md2</Source>
+      <Name>Models\Army\BodyModels\dragonknight_dragon</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Army\BodyModels\dragonknight_dragon.xnb</Output>
+      <Time>2008-02-03T07:39:46+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Army\BodyModels\forgottenone.md2</Source>
+      <Name>Models\Army\BodyModels\forgottenone</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Army\BodyModels\forgottenone.xnb</Output>
+      <Time>2008-02-04T07:11:28+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Army\BodyModels\forgottentwo.md2</Source>
+      <Name>Models\Army\BodyModels\forgottentwo</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Army\BodyModels\forgottentwo.xnb</Output>
+      <Time>2008-02-04T07:11:28+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Army\BodyModels\hunter.md2</Source>
+      <Name>Models\Army\BodyModels\hunter</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Army\BodyModels\hunter.xnb</Output>
+      <Time>2008-02-04T07:11:28+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Army\BodyModels\linfang.md2</Source>
+      <Name>Models\Army\BodyModels\linfang</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Army\BodyModels\linfang.xnb</Output>
+      <Time>2008-02-04T07:11:28+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Army\BodyModels\ryla.md2</Source>
+      <Name>Models\Army\BodyModels\ryla</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Army\BodyModels\ryla.xnb</Output>
+      <Time>2008-02-04T07:11:28+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Army\WeaponModels\forgotten_weapon.md2</Source>
+      <Name>Models\Army\WeaponModels\forgotten_weapon</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Army\WeaponModels\forgotten_weapon.xnb</Output>
+      <Time>2008-02-04T07:12:14+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Army\WeaponModels\hunter_weapon.md2</Source>
+      <Name>Models\Army\WeaponModels\hunter_weapon</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Army\WeaponModels\hunter_weapon.xnb</Output>
+      <Time>2008-02-04T07:12:14+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Army\WeaponModels\linfang_weapon.md2</Source>
+      <Name>Models\Army\WeaponModels\linfang_weapon</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Army\WeaponModels\linfang_weapon.xnb</Output>
+      <Time>2008-02-04T07:12:14+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Army\WeaponModels\ryla_weapon.md2</Source>
+      <Name>Models\Army\WeaponModels\ryla_weapon</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Army\WeaponModels\ryla_weapon.xnb</Output>
+      <Time>2008-02-04T07:12:14+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Army\BodyModels\ddz.md2</Source>
+      <Name>Models\Army\BodyModels\ddz</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Army\BodyModels\ddz.xnb</Output>
+      <Time>2008-02-04T07:20:00+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Army\WeaponModels\ddz_weapon.md2</Source>
+      <Name>Models\Army\WeaponModels\ddz_weapon</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Army\WeaponModels\ddz_weapon.xnb</Output>
+      <Time>2008-02-04T07:20:54+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Army\BodyModels\hakiru.md2</Source>
+      <Name>Models\Army\BodyModels\hakiru</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Army\BodyModels\hakiru.xnb</Output>
+      <Time>2008-02-04T07:25:12+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Army\WeaponModels\hakiru_weapon.md2</Source>
+      <Name>Models\Army\WeaponModels\hakiru_weapon</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Army\WeaponModels\hakiru_weapon.xnb</Output>
+      <Time>2008-02-04T07:25:28+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Army\BodyModels\terminator.md2</Source>
+      <Name>Models\Army\BodyModels\terminator</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Army\BodyModels\terminator.xnb</Output>
+      <Time>2008-02-04T07:29:50+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Army\WeaponModels\terminator_weapon.md2</Source>
+      <Name>Models\Army\WeaponModels\terminator_weapon</Name>
+      <Importer>MD2Importer</Importer>
+      <Processor>md2Processor</Processor>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Army\WeaponModels\terminator_weapon.xnb</Output>
+      <Time>2008-02-04T07:30:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_boatbuilding\china_boatbuilding.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\china_boatbuilding\china_boatbuilding_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_boatbuilding\boatbuilding.(1,1,8,8).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_boatbuilding\boatbuilding.(1,1,8,8)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_boatbuilding\japan_boatbuilding.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\japan_boatbuilding\japan_boatbuilding_0.xml</Output>
+      <Time>2010-07-13T22:10:46+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_boatbuilding\boatbuilding01.(1,1,8,8).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_boatbuilding\boatbuilding01.(1,1,8,8)_0.xnb</Output>
+      <Time>2010-07-13T22:10:46+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\castle_regicide\castle_regicide.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\castle_regicide\castle_regicide_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\castle_regicide\castle_regicide.(1,1,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\castle_regicide\castle_regicide.(1,1,8,7)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_castle\china_castle.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\china_castle\china_castle_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_castle\china_castle_age4.(1,1,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_castle\china_castle_age4.(1,1,8,7)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_consulate\china_consulate.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\china_consulate\china_consulate_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_consulate\china_consulate_age4_diffuse.(1,4,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_consulate\china_consulate_age4_diffuse.(1,_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_consulate\asian_accessories01.(1,1,8,6).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_consulate\asian_accessories01.(1,1,8,6)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_market\china_market.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\china_market\china_market_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_market\china_market_age4.(0,1,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_market\china_market_age4.(0,1,8,7)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_market\asian_accessories01.(1,1,8,6).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_market\asian_accessories01.(1,1,8,6)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_monastery\china_monastery.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\china_monastery\china_monastery_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_monastery\china_monastery_age4.(1,1,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_monastery\china_monastery_age4.(1,1,8,7)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_monastery\asian_accessories01.(1,1,8,6).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_monastery\asian_accessories01.(1,1,8,6)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_towncenter\china_towncenter.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\china_towncenter\china_towncenter_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_towncenter\china_towncenter_age4.(0,1,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_towncenter\china_towncenter_age4.(0,1,8,7)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_towncenter\asian_accessories01.(1,1,8,6).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_towncenter\asian_accessories01.(1,1,8,6)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_waracademy\china_waracademy.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\china_waracademy\china_waracademy_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_waracademy\china_waracademy_age4.(1,1,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_waracademy\china_waracademy_age4.(1,1,8,7)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_waracademy\asian_accessories01.(1,1,8,6).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_waracademy\asian_accessories01.(1,1,8,6)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_circlebuilding\china_circlebuilding.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\china_circlebuilding\china_circlebuilding_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_circlebuilding\circlebuilding.(1,1,8,8).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_circlebuilding\circlebuilding.(1,1,8,8)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_circlebuilding\japan_circlebuilding.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\japan_circlebuilding\japan_circlebuilding_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_circlebuilding\courtbuilding01.(1,1,8,8).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_circlebuilding\courtbuilding01.(1,1,8,8)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\confucian_academy\confucian_academy.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\confucian_academy\confucian_academy_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\confucian_academy\confucian_academy.(0,1,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\confucian_academy\confucian_academy.(0,1,8,7)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\confucian_academy\asian_accessories01.(1,1,8,6).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\confucian_academy\asian_accessories01.(1,1,8,6)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\giant_buddha\giant_buddha.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\giant_buddha\giant_buddha_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\giant_buddha\giant_buddha.(1,1,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\giant_buddha\giant_buddha.(1,1,8,7)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\golden_pavilion\golden_pavilion.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\golden_pavilion\golden_pavilion_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\golden_pavilion\golden_pavilion_diffuse.(1,1,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\golden_pavilion\golden_pavilion_diffuse.(1,1,8,7_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\imperial_palace\imperial_palace.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\imperial_palace\imperial_palace_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\imperial_palace\imperial_palace.(1,1,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\imperial_palace\imperial_palace.(1,1,8,7)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\imperial_palace\tree_japanese_maple.(0,4,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\imperial_palace\tree_japanese_maple.(0,4,8,7)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japanese_castle\japanese_castle.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\japanese_castle\japanese_castle_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japanese_castle\japanese_castle_age4.(1,1,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japanese_castle\japanese_castle_age4.(1,1,8,7)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_bansho\japan_bansho.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\japan_bansho\japan_bansho_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_bansho\asian_accessories01.(1,1,8,6).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_bansho\asian_accessories01.(1,1,8,6)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_bansho\japan_bansho_age2.(1,1,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_bansho\japan_bansho_age2.(1,1,8,7)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_consulate\japan_consulate.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\japan_consulate\japan_consulate_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_consulate\japan_consulate_age4_diffuse.(0,4,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_consulate\japan_consulate_age4_diffuse.(0,_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_consulate\asian_accessories01.(1,1,8,6).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_consulate\asian_accessories01.(1,1,8,6)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_dojo\japan_dojo.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\japan_dojo\japan_dojo_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_dojo\japan_dojo_age4.(0,4,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_dojo\japan_dojo_age4.(0,4,8,7)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_dojo\asian_accessories01.(1,1,8,6).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_dojo\asian_accessories01.(1,1,8,6)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_market\japan_market.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\japan_market\japan_market_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_market\japan_market_age4.(0,1,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_market\japan_market_age4.(0,1,8,7)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_market\asian_accessories01.(1,1,8,6).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_market\asian_accessories01.(1,1,8,6)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_monastery\japan_monastery.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\japan_monastery\japan_monastery_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_monastery\japan_monastery_age4.(0,1,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_monastery\japan_monastery_age4.(0,1,8,7)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_monastery\asian_accessories01.(1,1,8,6).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_monastery\asian_accessories01.(1,1,8,6)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_stable\japan_stable.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\japan_stable\japan_stable_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_stable\Japan_Stable_Age04_diffuse.(0,1,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_stable\Japan_Stable_Age04_diffuse.(0,1,_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_towncenter\japan_towncenter.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\japan_towncenter\japan_towncenter_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_towncenter\japan_towncenter_age4.(1,1,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_towncenter\japan_towncenter_age4.(1,1,8,7)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_towncenter\asian_accessories01.(1,1,8,6).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_towncenter\asian_accessories01.(1,1,8,6)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\mainbuilding\mainbuilding.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\mainbuilding\mainbuilding_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\mainbuilding\china_ship_galley_walls.(1,4,8,8).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\mainbuilding\china_ship_galley_walls.(1,4,8,8_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\mainbuilding\china_ship_galley.(1,4,8,8).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\mainbuilding\china_ship_galley.(1,4,8,8)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\mainbuilding\china_ship_misc.(1,4,8,8).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\mainbuilding\china_ship_misc.(1,4,8,8)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\porcelain_tower\porcelain_tower.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\porcelain_tower\porcelain_tower_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\porcelain_tower\porcelain_tower.(1,1,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\porcelain_tower\porcelain_tower.(1,1,8,7)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\summer_palace\summer_palace.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\summer_palace\summer_palace_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\summer_palace\summer_palace.(1,4,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\summer_palace\summer_palace.(1,4,8,7)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\summer_palace\tree_japanese_pine.(0,4,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\summer_palace\tree_japanese_pine.(0,4,8,7)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\summer_palace\summer_palace_stone.(0,0,4,6).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\summer_palace\summer_palace_stone.(0,0,4,6)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\tallbuilding\tallbuilding.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\tallbuilding\tallbuilding_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\tallbuilding\tallbuilding01.(1,1,8,8).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\tallbuilding\tallbuilding01.(1,1,8,8)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\temple_of_heaven\temple_of_heaven.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\temple_of_heaven\temple_of_heaven_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\temple_of_heaven\temple_of_heaven.(1,1,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\temple_of_heaven\temple_of_heaven.(1,1,8,7)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\topbuilding\topbuilding.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\topbuilding\topbuilding_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\topbuilding\china_ship_galley.(1,4,8,8).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\topbuilding\china_ship_galley.(1,4,8,8)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\topbuilding\china_ship_galley_walls.(1,4,8,8).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\topbuilding\china_ship_galley_walls.(1,4,8,8_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\torii_gates\torii_gates.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\torii_gates\torii_gates_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\torii_gates\torii_gates.(1,1,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\torii_gates\torii_gates.(1,1,8,7)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\torii_gates\asian_accessories01.(1,1,8,6).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\torii_gates\asian_accessories01.(1,1,8,6)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\toshogu_shrine\toshogu_shrine.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\toshogu_shrine\toshogu_shrine_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\toshogu_shrine\Toshogu_Shrine.(1,1,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\toshogu_shrine\Toshogu_Shrine.(1,1,8,7)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_waterbuilding\china_waterbuilding.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\china_waterbuilding\china_waterbuilding_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\china_waterbuilding\waterbuilding.(1,1,8,8).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\china_waterbuilding\waterbuilding.(1,1,8,8)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_waterbuilding\japan_waterbuilding.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\japan_waterbuilding\japan_waterbuilding_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\japan_waterbuilding\waterbuilding01.(1,1,8,8).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\japan_waterbuilding\waterbuilding01.(1,1,8,8)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\white_pagoda\white_pagoda.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\white_pagoda\white_pagoda_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\white_pagoda\White_Pagoda.(0,4,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\white_pagoda\White_Pagoda.(0,4,8,7)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\white_pagoda\tree_japanese_pine.(0,4,8,7).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\white_pagoda\tree_japanese_pine.(0,4,8,7)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\widebuilding\widebuilding.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Buildings\widebuilding\widebuilding_0.xml</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\widebuilding\widebuilding.(1,1,8,8).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\Models\Buildings\widebuilding\widebuilding.(1,1,8,8)_0.xnb</Output>
+      <Time>2010-07-13T22:10:48+07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>D:\2009-2010\Luan van\Source code\Demo\ModuleObject\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>D:\2009-2010\Luan van\Source code\Demo\PK3Loader\bin\x86\Release\PK3Loader.dll</Key>
+        <Value>2010-08-04T14:06:51.78125+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\2009-2010\Luan van\Source code\Demo\MD2Pipeline\bin\x86\Release\MD2Pipeline.dll</Key>
+        <Value>2010-07-28T04:34:22+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-07-15T00:04:42+07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

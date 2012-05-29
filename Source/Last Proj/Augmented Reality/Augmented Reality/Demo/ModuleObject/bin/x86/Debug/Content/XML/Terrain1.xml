@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Terrain>
+  <StartPoint X="100" Y="0" Z="-25"></StartPoint>
+  <Land>
+    <Map>Images\Terrain\Maps\heightmap</Map>
+    <TextureLevel1>Images\Terrain\Textures\sand</TextureLevel1>
+    <TextureLevel2>Images\Terrain\Textures\grass</TextureLevel2>
+    <TextureLevel3>Images\Terrain\Textures\rock</TextureLevel3>
+    <TextureLevel4>Images\Terrain\Textures\snow</TextureLevel4>
+  </Land>
+  <Tree>
+    <Texture>Images\Terrain\Textures\tree</Texture>
+    <Map>Images\Terrain\Maps\treeMap</Map>
+  </Tree>
+  <Water>
+    <Height>5</Height>
+    <SampleTexture>Images\Terrain\Textures\waterbump</SampleTexture>
+  </Water>
+</Terrain>

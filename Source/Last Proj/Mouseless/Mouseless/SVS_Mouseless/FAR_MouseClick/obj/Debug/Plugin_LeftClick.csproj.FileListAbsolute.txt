@@ -1,0 +1,5 @@
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\SVS_Mouseless\bin\Debug\Plugins\Plugin_LeftClick.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\SVS_Mouseless\bin\Debug\Plugins\Plugin_LeftClick.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\Plugin_LeftClick\obj\Debug\ResolveAssemblyReference.cache
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\Plugin_LeftClick\obj\Debug\Plugin_LeftClick.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\Plugin_LeftClick\obj\Debug\Plugin_LeftClick.pdb

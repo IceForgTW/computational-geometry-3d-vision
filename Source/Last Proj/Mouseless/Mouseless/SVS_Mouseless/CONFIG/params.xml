@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<BAYES_THRES_MIN>0.2000000000000000</BAYES_THRES_MIN>
+<BAYES_THRES_MAX>0.2000000000000000</BAYES_THRES_MAX>
+<Skin_Train_Path>"D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\CONFIG\Training Images\Skin"</Skin_Train_Path>
+<Non-Skin_Train_Path>"D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\CONFIG\Training Images\Non-Skin"</Non-Skin_Train_Path>
+<RGB_HSV>0</RGB_HSV>
+<HISTOGRAM_BIN_NUMBER>32</HISTOGRAM_BIN_NUMBER>
+<In_Plane_Threshold>12.</In_Plane_Threshold>
+<Mouse_Move_Min>4.</Mouse_Move_Min>
+<Mouse_Move_Max>20.</Mouse_Move_Max>
+<Mouse_Move_Scale>3.</Mouse_Move_Scale>
+<CLICK_FRAME_NUM>4</CLICK_FRAME_NUM>
+<FINGERTIP_THRESHOLD>0.7500000000000000</FINGERTIP_THRESHOLD>
+<FINGERTIP_SCALE1>8</FINGERTIP_SCALE1>
+<FINGERTIP_SCALE2>14</FINGERTIP_SCALE2>
+</opencv_storage>

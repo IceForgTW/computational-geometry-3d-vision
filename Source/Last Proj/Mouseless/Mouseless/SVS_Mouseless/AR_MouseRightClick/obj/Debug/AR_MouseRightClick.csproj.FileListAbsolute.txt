@@ -1,0 +1,13 @@
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_MouseRightClick\obj\Debug\ResolveAssemblyReference.cache
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_MouseRightClick\bin\Debug\AR_MouseRightClick.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_MouseRightClick\bin\Debug\AR_MouseRightClick.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_MouseRightClick\bin\Debug\ARInterface.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_MouseRightClick\bin\Debug\FARInterface.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_MouseRightClick\bin\Debug\DataAdapter.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_MouseRightClick\bin\Debug\ARInterface.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_MouseRightClick\bin\Debug\DataAdapter.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_MouseRightClick\bin\Debug\FARInterface.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_MouseRightClick\obj\Debug\AR_MouseRightClick.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_MouseRightClick\obj\Debug\AR_MouseRightClick.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\SVS_Mouseless\bin\Debug\ARPlugins\AR_MouseRightClick.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\SVS_Mouseless\bin\Debug\ARPlugins\AR_MouseRightClick.pdb

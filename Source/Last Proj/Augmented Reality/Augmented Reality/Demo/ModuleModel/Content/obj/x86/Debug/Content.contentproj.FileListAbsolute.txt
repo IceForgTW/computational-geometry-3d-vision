@@ -1,0 +1,5 @@
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\ModuleModel\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\STUDY\LuanVanWorking\Workspace\Demo\ModuleModel\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\2009-2010\Lab\__________\Demo\ModuleModel\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\2009-2010\Lab\Final\Demo\ModuleModel\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ModuleModel\Content\obj\x86\Debug\ResolveAssemblyReference.cache

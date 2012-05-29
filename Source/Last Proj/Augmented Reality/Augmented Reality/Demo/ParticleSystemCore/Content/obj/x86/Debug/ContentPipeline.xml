@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Effects\ParticleEffect.fx</Source>
+      <Name>Effects\ParticleEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\Effects\ParticleEffect.xnb</Output>
+      <Time>2010-07-26T21:25:24+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\fire.png</Source>
+      <Name>Textures\fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\Textures\fire.xnb</Output>
+      <Time>2010-06-22T16:27:02+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\smoke.png</Source>
+      <Name>Textures\smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\Textures\smoke.xnb</Output>
+      <Time>2010-06-22T16:27:02+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\explosion.png</Source>
+      <Name>Textures\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\Textures\explosion.xnb</Output>
+      <Time>2010-06-23T03:36:50+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\WhiteParticle.bmp</Source>
+      <Name>Textures\WhiteParticle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\Textures\WhiteParticle.xnb</Output>
+      <Time>2010-07-05T12:16:58+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BlueParticle.jpg</Source>
+      <Name>Textures\BlueParticle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\Textures\BlueParticle.xnb</Output>
+      <Time>2010-07-05T12:30:18+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\6943-v1.jpg</Source>
+      <Name>Textures\6943-v1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\Textures\6943-v1.xnb</Output>
+      <Time>2010-07-05T12:30:18+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\YellowParticle.jpg</Source>
+      <Name>Textures\YellowParticle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\Textures\YellowParticle.xnb</Output>
+      <Time>2010-07-05T12:30:18+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\6943-v2.jpg</Source>
+      <Name>Textures\6943-v2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\Textures\6943-v2.xnb</Output>
+      <Time>2010-07-05T12:30:18+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GreenParticle.jpg</Source>
+      <Name>Textures\GreenParticle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\Textures\GreenParticle.xnb</Output>
+      <Time>2010-07-05T12:30:18+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\6943-v3.jpg</Source>
+      <Name>Textures\6943-v3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\Textures\6943-v3.xnb</Output>
+      <Time>2010-07-05T12:30:18+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\6943-v4-small.jpg</Source>
+      <Name>Textures\6943-v4-small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\Textures\6943-v4-small.xnb</Output>
+      <Time>2010-07-05T12:30:18+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\6943-v4.jpg</Source>
+      <Name>Textures\6943-v4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\Textures\6943-v4.xnb</Output>
+      <Time>2010-07-05T12:30:18+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\6943-v5-small.jpg</Source>
+      <Name>Textures\6943-v5-small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\Textures\6943-v5-small.xnb</Output>
+      <Time>2010-07-05T12:30:18+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\6943-v5.jpg</Source>
+      <Name>Textures\6943-v5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\Textures\6943-v5.xnb</Output>
+      <Time>2010-07-05T12:30:18+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\6943-v6-small.jpg</Source>
+      <Name>Textures\6943-v6-small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\Textures\6943-v6-small.xnb</Output>
+      <Time>2010-07-05T12:30:18+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\6943-v6.jpg</Source>
+      <Name>Textures\6943-v6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\Textures\6943-v6.xnb</Output>
+      <Time>2010-07-05T12:30:18+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\6943-v7-small.jpg</Source>
+      <Name>Textures\6943-v7-small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\Textures\6943-v7-small.xnb</Output>
+      <Time>2010-07-05T12:30:18+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\6943-v7.jpg</Source>
+      <Name>Textures\6943-v7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\Textures\6943-v7.xnb</Output>
+      <Time>2010-07-05T12:30:18+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\VioletParticle.jpg</Source>
+      <Name>Textures\VioletParticle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\Textures\VioletParticle.xnb</Output>
+      <Time>2010-07-05T12:30:18+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\6943-v8.jpg</Source>
+      <Name>Textures\6943-v8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\Textures\6943-v8.xnb</Output>
+      <Time>2010-07-05T12:30:18+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\powerHoa.png</Source>
+      <Name>Textures\powerHoa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\Textures\powerHoa.xnb</Output>
+      <Time>2010-07-05T13:30:18+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\powerThuy.png</Source>
+      <Name>Textures\powerThuy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\Textures\powerThuy.xnb</Output>
+      <Time>2010-07-05T13:30:18+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\powerKim.png</Source>
+      <Name>Textures\powerKim</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\Textures\powerKim.xnb</Output>
+      <Time>2010-07-05T13:30:20+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\powerMoc.png</Source>
+      <Name>Textures\powerMoc</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\Textures\powerMoc.xnb</Output>
+      <Time>2010-07-05T13:30:20+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\powerTho.png</Source>
+      <Name>Textures\powerTho</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\Textures\powerTho.xnb</Output>
+      <Time>2010-07-05T13:30:20+07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\ParticleSystemCore\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-07-15T00:04:42+07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

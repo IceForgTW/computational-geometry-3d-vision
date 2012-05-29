@@ -1,0 +1,35 @@
+﻿Build started 5/29/2012 1:36:29 AM.
+     1>Project "Z:\Projet Libre\3D Vision\Source\Calibration\Calibration - OpenCV\Calibration - OpenCV\Calibration\Calibration.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Calibration.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\opencv\build\include /IC:\opencv\build\include\opencv /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Calibration.cpp main.cpp
+         main.cpp
+     1>c:\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\opencv\build\include\opencv2\legacy\blobtrack.hpp(187): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\opencv\build\include\opencv2\legacy\blobtrack.hpp(256): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+         Calibration.cpp
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Calibration.exe.embed.manifest.res" Debug\Calibration_manifest.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Z:\Projet Libre\3D Vision\Source\Calibration\Calibration - OpenCV\Calibration - OpenCV\Debug\Calibration.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\opencv\build\x86\vc10\lib /LIBPATH:C:\opencv\build\x86\vc10\staticlib C:\opencv\build\x86\vc10\lib\opencv_core240d.lib C:\opencv\build\x86\vc10\lib\opencv_highgui240d.lib C:\opencv\build\x86\vc10\lib\opencv_ml240d.lib C:\opencv\build\x86\vc10\lib\opencv_calib3d240d.lib C:\opencv\build\x86\vc10\lib\opencv_contrib240d.lib C:\opencv\build\x86\vc10\lib\opencv_features2d240d.lib C:\opencv\build\x86\vc10\lib\opencv_flann240d.lib C:\opencv\build\x86\vc10\lib\opencv_gpu240d.lib C:\opencv\build\x86\vc10\lib\opencv_haartraining_engined.lib C:\opencv\build\x86\vc10\lib\opencv_imgproc240d.lib C:\opencv\build\x86\vc10\lib\opencv_legacy240d.lib C:\opencv\build\x86\vc10\lib\opencv_objdetect240d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Calibration.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"Z:\Projet Libre\3D Vision\Source\Calibration\Calibration - OpenCV\Calibration - OpenCV\Debug\Calibration.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Z:\Projet Libre\3D Vision\Source\Calibration\Calibration - OpenCV\Calibration - OpenCV\Debug\Calibration.lib" /MACHINE:X86 Debug\Calibration.exe.embed.manifest.res
+         Debug\Calibration.obj
+         Debug\main.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Calibration.exe.embed.manifest" /manifest Debug\Calibration.exe.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Calibration.exe.embed.manifest.res" Debug\Calibration_manifest.rc 
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Calibration.vcxproj -> Z:\Projet Libre\3D Vision\Source\Calibration\Calibration - OpenCV\Calibration - OpenCV\Debug\Calibration.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Calibration.unsuccessfulbuild".
+         Touching "Debug\Calibration.lastbuildstate".
+     1>Done Building Project "Z:\Projet Libre\3D Vision\Source\Calibration\Calibration - OpenCV\Calibration - OpenCV\Calibration\Calibration.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:14.15

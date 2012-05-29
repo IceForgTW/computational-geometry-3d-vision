@@ -1,0 +1,8 @@
+D:\Thesis\3D Recontruction\ThucNghiem\ChuongTrinhVeHinhDemo\ChuongTrinhVeHinhDemo\bin\Release\ChuongTrinhVeHinhDemo.exe
+D:\Thesis\3D Recontruction\ThucNghiem\ChuongTrinhVeHinhDemo\ChuongTrinhVeHinhDemo\bin\Release\ChuongTrinhVeHinhDemo.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\ChuongTrinhVeHinhDemo\ChuongTrinhVeHinhDemo\obj\Release\ResolveAssemblyReference.cache
+D:\Thesis\3D Recontruction\ThucNghiem\ChuongTrinhVeHinhDemo\ChuongTrinhVeHinhDemo\obj\Release\ChuongTrinhVeHinhDemo.Form1.resources
+D:\Thesis\3D Recontruction\ThucNghiem\ChuongTrinhVeHinhDemo\ChuongTrinhVeHinhDemo\obj\Release\ChuongTrinhVeHinhDemo.Properties.Resources.resources
+D:\Thesis\3D Recontruction\ThucNghiem\ChuongTrinhVeHinhDemo\ChuongTrinhVeHinhDemo\obj\Release\ChuongTrinhVeHinhDemo.csproj.GenerateResource.Cache
+D:\Thesis\3D Recontruction\ThucNghiem\ChuongTrinhVeHinhDemo\ChuongTrinhVeHinhDemo\obj\Release\ChuongTrinhVeHinhDemo.exe
+D:\Thesis\3D Recontruction\ThucNghiem\ChuongTrinhVeHinhDemo\ChuongTrinhVeHinhDemo\obj\Release\ChuongTrinhVeHinhDemo.pdb

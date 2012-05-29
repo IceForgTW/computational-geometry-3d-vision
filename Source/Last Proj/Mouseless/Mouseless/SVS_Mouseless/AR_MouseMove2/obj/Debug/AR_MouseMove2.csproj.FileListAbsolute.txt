@@ -1,0 +1,5 @@
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\SVS_Mouseless\bin\Debug\ARPlugins\AR_MouseMove2.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\SVS_Mouseless\bin\Debug\ARPlugins\AR_MouseMove2.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_MouseMove2\obj\Debug\ResolveAssemblyReference.cache
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_MouseMove2\obj\Debug\AR_MouseMove2.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_MouseMove2\obj\Debug\AR_MouseMove2.pdb

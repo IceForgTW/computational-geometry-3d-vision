@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Animations>
+  <Animation id="0">stand0</Animation>
+  <Animation id="1">run0</Animation>
+  <Animation id="2">attack0</Animation>
+  <Animation id="3">pain0</Animation>
+  <Animation id="4">jump0</Animation>
+  <Animation id="5">flip0</Animation>
+  <Animation id="6">salute0</Animation>
+  <Animation id="7">taunt0</Animation>
+  <Animation id="8">wave0</Animation>
+  <Animation id="9">point0</Animation>
+  <Animation id="10">crstnd0</Animation>
+  <Animation id="11">crwalk0</Animation>
+  <Animation id="12">crattk0</Animation>
+  <Animation id="13">crpain0</Animation>
+  <Animation id="14">crdeath0</Animation>
+  <Animation id="15">death0</Animation>
+</Animations>

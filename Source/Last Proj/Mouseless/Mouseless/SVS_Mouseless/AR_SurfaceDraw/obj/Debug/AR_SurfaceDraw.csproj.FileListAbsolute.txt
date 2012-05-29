@@ -1,0 +1,13 @@
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_SurfaceDraw\bin\Debug\AR_SurfaceDraw.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_SurfaceDraw\bin\Debug\AR_SurfaceDraw.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_SurfaceDraw\bin\Debug\ARInterface.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_SurfaceDraw\bin\Debug\FARInterface.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_SurfaceDraw\bin\Debug\DataAdapter.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_SurfaceDraw\bin\Debug\ARInterface.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_SurfaceDraw\bin\Debug\DataAdapter.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_SurfaceDraw\bin\Debug\FARInterface.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_SurfaceDraw\obj\Debug\ResolveAssemblyReference.cache
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_SurfaceDraw\obj\Debug\AR_SurfaceDraw.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\AR_SurfaceDraw\obj\Debug\AR_SurfaceDraw.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\SVS_Mouseless\bin\Debug\ARPlugins\AR_SurfaceDraw.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\SVS_Mouseless\bin\Debug\ARPlugins\AR_SurfaceDraw.pdb

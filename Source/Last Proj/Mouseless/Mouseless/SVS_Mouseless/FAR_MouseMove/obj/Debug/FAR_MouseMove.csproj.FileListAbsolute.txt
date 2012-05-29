@@ -1,0 +1,11 @@
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\FAR_MouseMove\bin\Debug\FAR_MouseMove.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\FAR_MouseMove\bin\Debug\FAR_MouseMove.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\FAR_MouseMove\bin\Debug\DataAdapter.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\FAR_MouseMove\bin\Debug\FARInterface.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\FAR_MouseMove\bin\Debug\DataAdapter.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\FAR_MouseMove\bin\Debug\FARInterface.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\FAR_MouseMove\obj\Debug\ResolveAssemblyReference.cache
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\FAR_MouseMove\obj\Debug\FAR_MouseMove.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\FAR_MouseMove\obj\Debug\FAR_MouseMove.pdb
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\SVS_Mouseless\bin\Debug\FARPlugins\FAR_MouseMove.dll
+D:\Thesis\3D Recontruction\ThucNghiem\SVS_Mouseless\SVS_Mouseless\bin\Debug\FARPlugins\FAR_MouseMove.pdb

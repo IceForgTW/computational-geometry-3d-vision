@@ -1,0 +1,40 @@
+C:\Documents and Settings\hoangnd\Desktop\0071614060_code\XNAGameStudioCreatorsGuide_SecondEdition\Solutions\MGH26_AnimatedQuakeCharacter\MGH26_AnimatedQuakeCharacter\MD2Runtime\bin\x86\Debug\MD2Runtime.dll
+C:\Documents and Settings\hoangnd\Desktop\0071614060_code\XNAGameStudioCreatorsGuide_SecondEdition\Solutions\MGH26_AnimatedQuakeCharacter\MGH26_AnimatedQuakeCharacter\MD2Runtime\bin\x86\Debug\MD2Runtime.pdb
+C:\Documents and Settings\hoangnd\Desktop\0071614060_code\XNAGameStudioCreatorsGuide_SecondEdition\Solutions\MGH26_AnimatedQuakeCharacter\MGH26_AnimatedQuakeCharacter\MD2Runtime\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\hoangnd\Desktop\0071614060_code\XNAGameStudioCreatorsGuide_SecondEdition\Solutions\MGH26_AnimatedQuakeCharacter\MGH26_AnimatedQuakeCharacter\MD2Runtime\obj\x86\Debug\MD2Runtime.dll
+C:\Documents and Settings\hoangnd\Desktop\0071614060_code\XNAGameStudioCreatorsGuide_SecondEdition\Solutions\MGH26_AnimatedQuakeCharacter\MGH26_AnimatedQuakeCharacter\MD2Runtime\obj\x86\Debug\MD2Runtime.pdb
+D:\STUDY\LuanVanWorking\Report\Demo\MD2Runtime\bin\x86\Debug\MD2Runtime.dll
+D:\STUDY\LuanVanWorking\Report\Demo\MD2Runtime\bin\x86\Debug\MD2Runtime.pdb
+D:\STUDY\LuanVanWorking\Report\Demo\MD2Runtime\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\STUDY\LuanVanWorking\Report\Demo\MD2Runtime\obj\x86\Debug\MD2Runtime.dll
+D:\STUDY\LuanVanWorking\Report\Demo\MD2Runtime\obj\x86\Debug\MD2Runtime.pdb
+D:\STUDY\LuanVanWorking\Workspace\xxxdefender\Version02\XXXDefender\MD2Runtime\bin\x86\Debug\MD2Runtime.dll
+D:\STUDY\LuanVanWorking\Workspace\xxxdefender\Version02\XXXDefender\MD2Runtime\bin\x86\Debug\MD2Runtime.pdb
+D:\STUDY\LuanVanWorking\Workspace\xxxdefender\Version02\XXXDefender\MD2Runtime\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\STUDY\LuanVanWorking\Workspace\xxxdefender\Version02\XXXDefender\MD2Runtime\obj\x86\Debug\MD2Runtime.dll
+D:\STUDY\LuanVanWorking\Workspace\xxxdefender\Version02\XXXDefender\MD2Runtime\obj\x86\Debug\MD2Runtime.pdb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\MD2Runtime\bin\x86\Debug\MD2Runtime.dll
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\MD2Runtime\bin\x86\Debug\MD2Runtime.pdb
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\MD2Runtime\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\MD2Runtime\obj\x86\Debug\MD2Runtime.dll
+D:\STUDY\LuanVanWorking\SimpleDemo\SimpleDemo\MD2Runtime\obj\x86\Debug\MD2Runtime.pdb
+D:\STUDY\LuanVanWorking\Workspace\Demo\MD2Runtime\bin\x86\Debug\MD2Runtime.dll
+D:\STUDY\LuanVanWorking\Workspace\Demo\MD2Runtime\bin\x86\Debug\MD2Runtime.pdb
+D:\STUDY\LuanVanWorking\Workspace\Demo\MD2Runtime\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\STUDY\LuanVanWorking\Workspace\Demo\MD2Runtime\obj\x86\Debug\MD2Runtime.dll
+D:\STUDY\LuanVanWorking\Workspace\Demo\MD2Runtime\obj\x86\Debug\MD2Runtime.pdb
+D:\2009-2010\Lab\__________\Demo\MD2Runtime\bin\x86\Debug\MD2Runtime.dll
+D:\2009-2010\Lab\__________\Demo\MD2Runtime\bin\x86\Debug\MD2Runtime.pdb
+D:\2009-2010\Lab\__________\Demo\MD2Runtime\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\2009-2010\Lab\__________\Demo\MD2Runtime\obj\x86\Debug\MD2Runtime.dll
+D:\2009-2010\Lab\__________\Demo\MD2Runtime\obj\x86\Debug\MD2Runtime.pdb
+D:\2009-2010\Lab\Final\Demo\MD2Runtime\bin\x86\Debug\MD2Runtime.dll
+D:\2009-2010\Lab\Final\Demo\MD2Runtime\bin\x86\Debug\MD2Runtime.pdb
+D:\2009-2010\Lab\Final\Demo\MD2Runtime\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\2009-2010\Lab\Final\Demo\MD2Runtime\obj\x86\Debug\MD2Runtime.dll
+D:\2009-2010\Lab\Final\Demo\MD2Runtime\obj\x86\Debug\MD2Runtime.pdb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\MD2Runtime\bin\x86\Debug\MD2Runtime.dll
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\MD2Runtime\bin\x86\Debug\MD2Runtime.pdb
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\MD2Runtime\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\MD2Runtime\obj\x86\Debug\MD2Runtime.dll
+C:\Documents and Settings\LENOVO 3000 Y410\Desktop\Luan van\Final demo\Demo\MD2Runtime\obj\x86\Debug\MD2Runtime.pdb

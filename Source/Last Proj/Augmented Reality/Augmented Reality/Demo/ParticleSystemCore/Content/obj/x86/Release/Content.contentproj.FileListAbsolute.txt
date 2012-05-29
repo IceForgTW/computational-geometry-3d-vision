@@ -1,0 +1,2 @@
+D:\2009-2010\Lab\Final\Demo\ParticleSystemCore\Content\obj\x86\Release\ResolveAssemblyReference.cache
+D:\2009-2010\Luan van\Source code\Demo\ParticleSystemCore\Content\obj\x86\Release\ResolveAssemblyReference.cache
