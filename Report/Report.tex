@@ -1,0 +1,125 @@
+\documentclass{article}
+
+% comments in LaTeX start with a %.  anything after it is ignored.
+
+% this section is the preamble.  misc. commands that affect the entire
+%  document will be placed here.
+
+\usepackage{fullpage}
+\usepackage{amsmath}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{enumerate}
+\usepackage{color}
+
+\usepackage{graphicx}
+\usepackage{float}
+
+\usepackage[font=small,format=plain,labelfont=bf,up,textfont=it,up]{caption}
+\usepackage{diagbox}
+
+\floatstyle{plain} 
+\restylefloat{figure}
+
+\newcommand{\mvector}[2]{({#1}_{1}, {#1}_{2}, \ldots, {#1}_{#2})}
+\newcommand{\mb}[1]{\mathbf{#1}}
+\newcommand{\tb}[1]{\textbf{#1}}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+\begin{titlepage}
+\begin{center}
+\textsc{\LARGE TELECOM PARISTECH}\\[1.5cm]
+\textsc{\Large FREE PROJECT}\\[0.9cm]
+{ \huge \bfseries 3D Vision}\\[1.9cm]
+
+% Author and supervisor
+\begin{minipage}{0.4\textwidth}
+\begin{flushleft} \large
+\emph{Author:}\\
+Tuan Hung \textsc{VU}
+\end{flushleft}
+\end{minipage}
+\begin{minipage}{0.4\textwidth}
+\begin{flushright} \large
+\emph{Supervisor:} \\
+Dr.~Elmar \textsc{Eisemann}
+\end{flushright}
+\end{minipage}
+\vfill
+% Bottom of the page
+{\large \today}
+\end{center}
+\end{titlepage}
+\pagebreak{}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\thispagestyle{empty}
+\begin{abstract}
+This report is dedicated for the "projet libre" of 3D vision, in the scope of a class in Telecom Paristech. The project contains researching on 3D vision as well as developing a simple application which imprints texture on planes on single image. All source codes are implemented in MATLAB. Some pseudo-codes would be included in the report for better explanation. 
+\end{abstract}
+
+\pagebreak{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\thispagestyle{empty}
+\tableofcontents
+
+\pagebreak
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setcounter{page}{1}
+\section{Theorical background}
+\label{sec:theo_back}
+
+\subsection{Pinhole camera model}
+\label{sec:pinhole}
+One of the most well-known model for interpreting geometric relationship between 3D scene and its image projection plane is the pinhole camera model. Let's consider a 3D point $\mb{X}=[X, Y, Z]^T$. Assume that we project it on an image plane and get the 2D point $\mb{x} = [x, y]$. 
+
+\subsection{SIFT}
+\label{esc:SIFT}
+
+\subsection{RANSAC}
+\label{sec:RANSAC}
+
+\subsection{Fundamental matrix}
+\label{sec:FMat}
+
+\subsection{Essential matrix}
+\label{sec:EMat}
+
+\subsection{Rectification}
+\label{sec:rectification}
+
+\subsection{Projection matrices from essential matrix}
+\label{P_from_E}
+
+\subsection{Triangulation}
+\label{triangulation}
+
+\pagebreak
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Application}
+\label{sec:application}
+
+
+\pagebreak
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\bibliographystyle{acm}
+\bibliography{mypapers}
+
+\pagebreak
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\pagebreak
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
+
+
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: t
+%%% End: 
