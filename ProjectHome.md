@@ -1,0 +1,1 @@
+Mostly, the project is required for a course in my university. It consists of literature about 3D reconstruction, some implementation of 3D vision algorithms and some funny applications.
